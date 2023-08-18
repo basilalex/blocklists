@@ -1,0 +1,98 @@
+# ------------------------------------[INFO]----------------------------------------
+#
+# Title: UA Hosts by Oleksandr Bazylevskyi
+# Description: The fraud websites filters.
+# Homepage: https://github.com/basilalex/ua-hosts
+# Expires: 1 week
+# Total number of filters: 87
+# License: MIT (https://github.com/basilalex/ua-hosts/blob/main/LICENSE)
+#
+# ------------------------------------[FILTERS]-------------------------------------
+
+0.0.0.0 analniy4ervyak.zzz.com.ua
+0.0.0.0 antivirus-kaspersky.com.ua
+0.0.0.0 blockchain.victoryzorkina.pp.ua
+0.0.0.0 blog.c8.net.ua
+0.0.0.0 blog.salesdoubler.com.ua
+0.0.0.0 brandclub.com.ua
+0.0.0.0 buxsoft.adr.com.ua
+0.0.0.0 careers.ua
+0.0.0.0 citadel.ua
+0.0.0.0 comtek.com.ua
+0.0.0.0 cream-dream.com.ua
+0.0.0.0 cxid.info
+0.0.0.0 dolcevitahotel.dn.ua
+0.0.0.0 dresshall.com.ua
+0.0.0.0 drpepper.net.ua
+0.0.0.0 elefanto.com.ua
+0.0.0.0 escon.com.ua
+0.0.0.0 evt.in.ua
+0.0.0.0 fitnes-trener.com.ua
+0.0.0.0 fito-gor.com.ua
+0.0.0.0 g4supplements.com.ua
+0.0.0.0 gold-nm.at.ua
+0.0.0.0 goldenhands.in.ua
+0.0.0.0 irens.com.ua
+0.0.0.0 it4y.com.ua
+0.0.0.0 itast.pl.ua
+0.0.0.0 kiwi.kiev.ua
+0.0.0.0 krovla-fasad.com.ua
+0.0.0.0 kuznec.kiev.ua
+0.0.0.0 lgm-ua.com
+0.0.0.0 link.concept.pp.ua
+0.0.0.0 link.hour.pp.ua
+0.0.0.0 link.markett.pp.ua
+0.0.0.0 loany.com.ua
+0.0.0.0 nasha-persha.org.ua
+0.0.0.0 onelove.agancy
+0.0.0.0 optomarket.com.ua
+0.0.0.0 petsy.com.ua
+0.0.0.0 proskuryakova.com.ua
+0.0.0.0 reisunbniltu.uol.ua
+0.0.0.0 scandalsonya.ua
+0.0.0.0 selected.com.ua
+0.0.0.0 shop.maguru.co.ua
+0.0.0.0 site-line.com.ua
+0.0.0.0 technomix.in.ua
+0.0.0.0 ukrenergotrans.com.ua
+0.0.0.0 vesti.ua
+0.0.0.0 watch777.com.ua
+0.0.0.0 webbonus.net.ua
+0.0.0.0 www.bahmut.com.ua
+0.0.0.0 www.brandclub.com.ua
+0.0.0.0 www.buxsoft.adr.com.ua
+0.0.0.0 www.citadel.ua
+0.0.0.0 www.comtek.com.ua
+0.0.0.0 www.cream-dream.com.ua
+0.0.0.0 www.dolcevitahotel.dn.ua
+0.0.0.0 www.dresshall.com.ua
+0.0.0.0 www.drpepper.net.ua
+0.0.0.0 www.elefanto.com.ua
+0.0.0.0 www.escon.com.ua
+0.0.0.0 www.evt.in.ua
+0.0.0.0 www.fito-gor.com.ua
+0.0.0.0 www.gold-nm.at.ua
+0.0.0.0 www.goldenhands.in.ua
+0.0.0.0 www.it4y.com.ua
+0.0.0.0 www.itast.pl.ua
+0.0.0.0 www.kiwi.kiev.ua
+0.0.0.0 www.krovla-fasad.com.ua
+0.0.0.0 www.kuznec.kiev.ua
+0.0.0.0 www.link.concept.pp.ua
+0.0.0.0 www.link.hour.pp.ua
+0.0.0.0 www.link.markett.pp.ua
+0.0.0.0 www.masterskaya.dn.ua
+0.0.0.0 www.optomarket.com.ua
+0.0.0.0 www.petsy.com.ua
+0.0.0.0 www.proskuryakova.com.ua
+0.0.0.0 www.reisunbniltu.uol.ua
+0.0.0.0 www.scandalsonya.ua
+0.0.0.0 www.serenity.in.ua
+0.0.0.0 www.shop.maguru.co.ua
+0.0.0.0 www.site-line.com.ua
+0.0.0.0 www.technomix.in.ua
+0.0.0.0 www.ukrenergotrans.com.ua
+0.0.0.0 www.watch777.com.ua
+0.0.0.0 www.webbonus.net.ua
+0.0.0.0 www.zarabotok.net.ua
+0.0.0.0 zarabotok.net.ua
