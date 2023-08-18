@@ -1,13 +1,20 @@
-# ------------------------------------[INFO]----------------------------------------
+# --------------------------------------------[INFO]------------------------------------------------
 #
-# Title: UA Hosts by Oleksandr Bazylevskyi
-# Description: Ads, tracking, privacy, and redirection filters.
-# Homepage: https://github.com/basilalex/ua-hosts
-# Expires: 1 week
-# Total number of filters: 560
-# License: MIT (https://github.com/basilalex/ua-hosts/blob/main/LICENSE)
+# Title: Ads, tracking, privacy, and redirection filters.
+# Region: UA (Ukraine)
+# Author: Oleksandr Bazylevskyi
+# Homepage: https://github.com/basilalex/blocklists
+# Expires: 1 day
+# Total number of filters: 561
+# License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
-# ------------------------------------[FILTERS]-------------------------------------
+# --------------------------------------------[SUPPORT]---------------------------------------------
+#
+# You can support by:
+# - reporting false positives
+#
+# --------------------------------------------[FILTERS]---------------------------------------------
+#
 
 0.0.0.0 stats.itc.ua
 0.0.0.0 0.141.hostpro.com.ua

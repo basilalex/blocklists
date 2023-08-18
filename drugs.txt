@@ -1,13 +1,20 @@
-# ------------------------------------[INFO]----------------------------------------
+# --------------------------------------------[INFO]------------------------------------------------
 #
-# Title: UA Hosts by Oleksandr Bazylevskyi
-# Description: Websites that sells illegal medicines.
-# Homepage: https://github.com/basilalex/ua-hosts
-# Expires: 1 week
+# Title: Websites that sells illegal medicines.
+# Region: UA (Ukraine)
+# Author: Oleksandr Bazylevskyi
+# Homepage: https://github.com/basilalex/blocklists
+# Expires: 1 day
 # Total number of filters: 187
-# License: MIT (https://github.com/basilalex/ua-hosts/blob/main/LICENSE)
+# License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
-# ------------------------------------[FILTERS]-------------------------------------
+# --------------------------------------------[SUPPORT]---------------------------------------------
+#
+# You can support by:
+# - reporting false positives
+#
+# --------------------------------------------[FILTERS]---------------------------------------------
+#
 
 0.0.0.0 bongstar.com.ua
 0.0.0.0 585.kiev.ua
