@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 573
+# Total number of filters: 580
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -42,6 +42,7 @@
 0.0.0.0 abw.fraza.ua
 0.0.0.0 ac.adpro.com.ua
 0.0.0.0 ad-app.morion.ua
+0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.kino-teatr.ua
 0.0.0.0 ad.luxnet.ua
 0.0.0.0 ad.starlightmedia.ua
@@ -90,6 +91,7 @@
 0.0.0.0 analytics-api.astratex.ua
 0.0.0.0 analytics.factor.ua
 0.0.0.0 analytics.gallex.com.ua
+0.0.0.0 analytics.google.com
 0.0.0.0 analytics.itbox.ua
 0.0.0.0 analytics.metro.ua
 0.0.0.0 analytics.salesdoubler.com.ua
@@ -107,6 +109,7 @@
 0.0.0.0 apioffers.salesdoubler.com.ua
 0.0.0.0 apiservices.salesdoubler.com.ua
 0.0.0.0 apistats.salesdoubler.com.ua
+0.0.0.0 applytics.nordvpn.com
 0.0.0.0 apps.c8.net.ua
 0.0.0.0 arethegrav.com.ua
 0.0.0.0 artbanner.com.ua
@@ -219,6 +222,7 @@
 0.0.0.0 fantastika.in.ua
 0.0.0.0 faq.salesdoubler.com.ua
 0.0.0.0 fbintegration.salesdoubler.com.ua
+0.0.0.0 femetrics.grammarly.io
 0.0.0.0 fenix-translation.com.ua
 0.0.0.0 ff.nsg.org.ua
 0.0.0.0 files.salesdoubler.com.ua
@@ -479,6 +483,7 @@
 0.0.0.0 stat.solomatin.in.ua
 0.0.0.0 stat.xlinks.org.ua
 0.0.0.0 stat24.meta.ua
+0.0.0.0 static.ads-twitter.com
 0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 static.hotjar.com
 0.0.0.0 static.mycounter.ua
@@ -514,6 +519,7 @@
 0.0.0.0 tradeone.com.ua
 0.0.0.0 trafmag.com
 0.0.0.0 travel.salesdoubler.com.ua
+0.0.0.0 treatment.grammarly.com
 0.0.0.0 tsnakeman.net.ua
 0.0.0.0 tsr.cdns.com.ua
 0.0.0.0 tyw.salesdoubler.com.ua
@@ -585,6 +591,7 @@
 0.0.0.0 yfedatherappear.com.ua
 0.0.0.0 ylasthepoityelthens.com.ua
 0.0.0.0 z.cdn.umh.ua
+0.0.0.0 z.moatads.com
 0.0.0.0 zakladka.org.ua
 0.0.0.0 zcode11.me
 0.0.0.0 znajua.top-js-metrics.top.my.ua

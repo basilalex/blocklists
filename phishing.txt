@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 2834
+# Total number of filters: 2833
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -1635,7 +1635,6 @@
 0.0.0.0 plategi-city.com.ua
 0.0.0.0 platizh.com
 0.0.0.0 platizhmob.com
-0.0.0.0 play.google.com
 0.0.0.0 pochemuchka.kiev.ua
 0.0.0.0 polimat.com.ua
 0.0.0.0 poloski.com.ua
