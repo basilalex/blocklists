@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 2822
+# Total number of filters: 2834
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -14,7 +14,6 @@
 # - reporting false positives
 #
 # --------------------------------------------[FILTERS]---------------------------------------------
-#
 
 0.0.0.0 0nkassashop.shop
 0.0.0.0 0nlinepaidlife.shop
@@ -1228,6 +1227,7 @@
 0.0.0.0 money-ukraine.site
 0.0.0.0 money.mo-pays.com
 0.0.0.0 moneygive05.icu
+0.0.0.0 moneyhelpiukraine.site
 0.0.0.0 moneypay-for-ukrainians-people.pro
 0.0.0.0 moneyua24.org
 0.0.0.0 moneyuanext24.info
@@ -1263,6 +1263,8 @@
 0.0.0.0 mykyivstar.com
 0.0.0.0 mytax-compensation.xyz
 0.0.0.0 na-zorke.com
+0.0.0.0 nacionalbankukraine.shop
+0.0.0.0 nacionalbankukraine.xyz
 0.0.0.0 nadym.in
 0.0.0.0 nag-jdc.cloud
 0.0.0.0 nalichkadeng.online
@@ -1286,6 +1288,10 @@
 0.0.0.0 next-novapay.cloud
 0.0.0.0 next-privat24.online
 0.0.0.0 next.privat24.fun
+0.0.0.0 next24-auth.online
+0.0.0.0 next24-auth.site
+0.0.0.0 next24-auth.space
+0.0.0.0 next24-auth.website
 0.0.0.0 next24.nato-gov.com
 0.0.0.0 next24.next-bp.net
 0.0.0.0 next24.nextbp.info
@@ -1633,6 +1639,8 @@
 0.0.0.0 pochemuchka.kiev.ua
 0.0.0.0 polimat.com.ua
 0.0.0.0 poloski.com.ua
+0.0.0.0 polsha24dopomogaua.shop
+0.0.0.0 polsha24dopomogaua.site
 0.0.0.0 poluchenieuanext24.tech
 0.0.0.0 poluchibilet.online
 0.0.0.0 poluchka.3dss-pays.info
@@ -2204,6 +2212,7 @@
 0.0.0.0 ukraine-payment.com.ua
 0.0.0.0 ukraineamazon.com
 0.0.0.0 ukraineamazon.pro
+0.0.0.0 ukrainecross.org
 0.0.0.0 ukrainedevelopmentmission.org
 0.0.0.0 ukrainedrama.fun
 0.0.0.0 ukraineebay.vip
@@ -2214,6 +2223,7 @@
 0.0.0.0 ukrainehotspothelp.com
 0.0.0.0 ukraineopross.yolasite.com
 0.0.0.0 ukrainepaymentsystem.pro
+0.0.0.0 ukrainepays.site
 0.0.0.0 ukrainerozetka.com
 0.0.0.0 ukrainerozetka.vip
 0.0.0.0 ukrainian-inform.com
@@ -2360,6 +2370,7 @@
 0.0.0.0 viplataukraina24.xyz
 0.0.0.0 viplataukraine.com
 0.0.0.0 viplataukraine.org
+0.0.0.0 viplatiukraine.xyz
 0.0.0.0 viplaty.com.ua
 0.0.0.0 viplaty.online
 0.0.0.0 viplatya-kosthiv.com.ua

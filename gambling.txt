@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 312
+# Total number of filters: 313
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -14,7 +14,6 @@
 # - reporting false positives
 #
 # --------------------------------------------[FILTERS]---------------------------------------------
-#
 
 0.0.0.0 03244.com.ua
 0.0.0.0 0352.ua
@@ -217,6 +216,7 @@
 0.0.0.0 ridewap.com.ua
 0.0.0.0 safran.kiev.ua
 0.0.0.0 sakvoyag.ks.ua
+0.0.0.0 setantasports.com
 0.0.0.0 similarweb.com
 0.0.0.0 site.ua
 0.0.0.0 slavutich.cn.ua

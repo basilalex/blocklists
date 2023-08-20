@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 561
+# Total number of filters: 573
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -14,9 +14,7 @@
 # - reporting false positives
 #
 # --------------------------------------------[FILTERS]---------------------------------------------
-#
 
-0.0.0.0 stats.itc.ua
 0.0.0.0 0.141.hostpro.com.ua
 0.0.0.0 101546558065714944325.uads.cc
 0.0.0.0 103951623568270598926.uads.cc
@@ -97,6 +95,7 @@
 0.0.0.0 analytics.salesdoubler.com.ua
 0.0.0.0 analytics.simant.com.ua
 0.0.0.0 analytics.taijiball.com.ua
+0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics.ucell.com.ua
 0.0.0.0 andoldifiscqa.com.ua
 0.0.0.0 andupoatour.com.ua
@@ -151,8 +150,10 @@
 0.0.0.0 campaign.remp.nv.ua
 0.0.0.0 cc.givemelink.cc
 0.0.0.0 ccs2.ua.edu
+0.0.0.0 cdn-scripts.signifyd.com
 0.0.0.0 cdn.bmcdn3.com
 0.0.0.0 cdn.c8.net.ua
+0.0.0.0 cdn.fera.ai
 0.0.0.0 cdn.getpush.net
 0.0.0.0 cdn.gravitec.net
 0.0.0.0 cdn.holder.com.ua
@@ -168,6 +169,7 @@
 0.0.0.0 code.curs.net.ua
 0.0.0.0 cofnix.hillary-shop.com.ua
 0.0.0.0 connect.facebook.net
+0.0.0.0 consent.trustarc.com
 0.0.0.0 context.hotline.ua
 0.0.0.0 context.meta.ua
 0.0.0.0 count.e-ratings.com.ua
@@ -228,6 +230,7 @@
 0.0.0.0 gamblingua.com.ua
 0.0.0.0 gaua.hit.gemius.pl
 0.0.0.0 gemius.com.ua
+0.0.0.0 geo.bananastand.io
 0.0.0.0 get.mycounter.com.ua
 0.0.0.0 get.mycounter.ua
 0.0.0.0 globalpostback.salesdoubler.com.ua
@@ -283,6 +286,7 @@
 0.0.0.0 link.booknet.ua
 0.0.0.0 liq-payment.com.ua
 0.0.0.0 login.c8.net.ua
+0.0.0.0 loox.io
 0.0.0.0 lpzxed.uai.com.br
 0.0.0.0 lux-bn.com.ua
 0.0.0.0 lxwasy.tatragarden.ua
@@ -379,6 +383,7 @@
 0.0.0.0 payouts.salesdoubler.com.ua
 0.0.0.0 paywall.forbes.ua
 0.0.0.0 pdmp.c8.net.ua
+0.0.0.0 philipselectronicsne.tt.omtrdc.net
 0.0.0.0 piccy.org.ua
 0.0.0.0 piwik.devgroup.com.ua
 0.0.0.0 piwik.ibud.ua
@@ -430,6 +435,7 @@
 0.0.0.0 rubikon6.if.ua
 0.0.0.0 rysheatlengthani.com.ua
 0.0.0.0 s.getstat.net
+0.0.0.0 s.go-mpulse.net
 0.0.0.0 s.holder.com.ua
 0.0.0.0 s.mediatraffic.com.ua
 0.0.0.0 s.uadx.com
@@ -438,6 +444,7 @@
 0.0.0.0 scripts.mycounter.com.ua
 0.0.0.0 scripts.mycounter.ua
 0.0.0.0 secure.esputnik.com.ua
+0.0.0.0 secure.gaug.es
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 self.c8.net.ua
 0.0.0.0 sensor.org.ua
@@ -477,7 +484,9 @@
 0.0.0.0 static.mycounter.ua
 0.0.0.0 statics.esputnik.com
 0.0.0.0 stats.fabrica.net.ua
+0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.ifs.sumy.ua
+0.0.0.0 stats.itc.ua
 0.0.0.0 stats.playzone.in.ua
 0.0.0.0 stats.rbc.ua
 0.0.0.0 stats.top-top.com.ua
@@ -515,6 +524,7 @@
 0.0.0.0 ulerkr.ukrzoloto.ua
 0.0.0.0 um1.cdn.umh.ua
 0.0.0.0 untusthemailha.com.ua
+0.0.0.0 utt.impactcdn.com
 0.0.0.0 uzkh.lg.ua
 0.0.0.0 v.holder.com.ua
 0.0.0.0 viberapi.opinion.com.ua
@@ -527,6 +537,7 @@
 0.0.0.0 webtracking-v01.bpmonline.com
 0.0.0.0 webvitals.luxnet.ua
 0.0.0.0 widget.trustpilot.com
+0.0.0.0 widgets.binotel.com
 0.0.0.0 widgets.coingecko.com
 0.0.0.0 worldofrest.com.ua
 0.0.0.0 wprixk.brocard.ua

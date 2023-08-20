@@ -14,7 +14,6 @@
 # - reporting false positives
 #
 # --------------------------------------------[FILTERS]---------------------------------------------
-#
 
 0.0.0.0 analniy4ervyak.zzz.com.ua
 0.0.0.0 antivirus-kaspersky.com.ua

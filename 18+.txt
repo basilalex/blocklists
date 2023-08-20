@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 187
+# Total number of filters: 190
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -14,7 +14,6 @@
 # - reporting false positives
 #
 # --------------------------------------------[FILTERS]---------------------------------------------
-#
 
 0.0.0.0 aaaa.in.ua
 0.0.0.0 adele.com.ua
@@ -31,6 +30,7 @@
 0.0.0.0 besterotic.io.com.ua
 0.0.0.0 bestporn.io.ua
 0.0.0.0 bncom.com.ua
+0.0.0.0 boosty.to
 0.0.0.0 caramel-erotic.com.ua
 0.0.0.0 carbabes.io.com.ua
 0.0.0.0 clique.net.ua
@@ -115,6 +115,7 @@
 0.0.0.0 non-stop.com.ua
 0.0.0.0 notaboo.in.ua
 0.0.0.0 nudevideo.pp.ua
+0.0.0.0 onlyfans.com
 0.0.0.0 pandoxxx.at.ua
 0.0.0.0 panpluspani.com.ua
 0.0.0.0 partygirls.com.ua
@@ -197,6 +198,7 @@
 0.0.0.0 ve.com.ua
 0.0.0.0 venom.io.com.ua
 0.0.0.0 veronica.com.ua
+0.0.0.0 verys.taplink.ws
 0.0.0.0 vipmassage.com.ua
 0.0.0.0 viprelax.com.ua
 0.0.0.0 vsexshope.com.ua
