@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 190
+# Total number of filters: 193
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -20,6 +20,7 @@
 0.0.0.0 adult.io.com.ua
 0.0.0.0 alive.org.ua
 0.0.0.0 all.org.ua
+0.0.0.0 allmylinks.com
 0.0.0.0 allnight.com.ua
 0.0.0.0 amoremio.com.ua
 0.0.0.0 amy.com.ua
@@ -95,6 +96,7 @@
 0.0.0.0 lana.in.ua
 0.0.0.0 lavids.at.ua
 0.0.0.0 lesbo.io.com.ua
+0.0.0.0 linktr.ee
 0.0.0.0 lollipop.com.ua
 0.0.0.0 love.tyt.in.ua
 0.0.0.0 lovefoto.io.com.ua
@@ -193,6 +195,7 @@
 0.0.0.0 top-models.com.ua
 0.0.0.0 topescort.com.ua
 0.0.0.0 topsexshop.com.ua
+0.0.0.0 uaporn.net
 0.0.0.0 ukrhot.com
 0.0.0.0 upskirtvoyeur.at.ua
 0.0.0.0 ve.com.ua

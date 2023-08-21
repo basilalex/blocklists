@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 580
+# Total number of filters: 585
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -156,6 +156,7 @@
 0.0.0.0 cdn-scripts.signifyd.com
 0.0.0.0 cdn.bmcdn3.com
 0.0.0.0 cdn.c8.net.ua
+0.0.0.0 cdn.claspo.io
 0.0.0.0 cdn.fera.ai
 0.0.0.0 cdn.getpush.net
 0.0.0.0 cdn.gravitec.net
@@ -167,6 +168,7 @@
 0.0.0.0 cdn.umh.ua
 0.0.0.0 cgtgwa.best.lt.ua
 0.0.0.0 chernivtsi.dynamo.ua
+0.0.0.0 claspo.io
 0.0.0.0 clck.yandex.ua
 0.0.0.0 click.uamtrk.com
 0.0.0.0 code.curs.net.ua
@@ -445,6 +447,8 @@
 0.0.0.0 s.uadx.com
 0.0.0.0 salesdoubler.com.ua
 0.0.0.0 salesdoubler.ua
+0.0.0.0 script.claspo.io
+0.0.0.0 scripts.claspo.io
 0.0.0.0 scripts.mycounter.com.ua
 0.0.0.0 scripts.mycounter.ua
 0.0.0.0 secure.esputnik.com.ua
@@ -562,6 +566,7 @@
 0.0.0.0 www.banner.ua
 0.0.0.0 www.beespace.com.ua
 0.0.0.0 www.c8.net.ua
+0.0.0.0 www.claspo.io
 0.0.0.0 www.frog-record.webnode.com.ua
 0.0.0.0 www.gamblingua.com.ua
 0.0.0.0 www.google-analytics.com
