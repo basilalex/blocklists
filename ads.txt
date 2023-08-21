@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 585
+# Total number of filters: 615
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -49,6 +49,7 @@
 0.0.0.0 ad.ua.doubleclick.net
 0.0.0.0 adcore.ua
 0.0.0.0 add.in.ua
+0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 admin.byte.in.ua
 0.0.0.0 admin.uamobile.net
 0.0.0.0 admixer.ua
@@ -104,6 +105,7 @@
 0.0.0.0 ans.avast.ua
 0.0.0.0 api-analytics.rozetka.com.ua
 0.0.0.0 api.c8.net.ua
+0.0.0.0 api.instabug.com
 0.0.0.0 api.nsju.org.ua
 0.0.0.0 api.visicom.ua
 0.0.0.0 apioffers.salesdoubler.com.ua
@@ -142,6 +144,8 @@
 0.0.0.0 blablabla.pp.ua
 0.0.0.0 bm5.c8.net.ua
 0.0.0.0 bmcdn3.com
+0.0.0.0 books-analytics-events.apple.com
+0.0.0.0 books-analytics-events.news.apple-dns.net
 0.0.0.0 btloader.com
 0.0.0.0 c.hit.ua
 0.0.0.0 c.holder.com.ua
@@ -164,6 +168,7 @@
 0.0.0.0 cdn.membrana.media
 0.0.0.0 cdn.onthe.io
 0.0.0.0 cdn.pendo.io
+0.0.0.0 cdn.rozetka.com.ua
 0.0.0.0 cdn.slots.baxter.olx.org
 0.0.0.0 cdn.umh.ua
 0.0.0.0 cgtgwa.best.lt.ua
@@ -189,6 +194,7 @@
 0.0.0.0 counter24.luxnet.ua
 0.0.0.0 cpapi.salesdoubler.com.ua
 0.0.0.0 custom.transaction
+0.0.0.0 d.reddit.com
 0.0.0.0 daaapp.com.ua
 0.0.0.0 data-aae7bdcec6.autoscout24.com.ua
 0.0.0.0 data-b7d0b4217b.autoscout24.com.ua
@@ -197,6 +203,7 @@
 0.0.0.0 dfvdkx.gismeteo.ua
 0.0.0.0 dgemanowhot.com.ua
 0.0.0.0 discounts.salesdoubler.com.ua
+0.0.0.0 dit.whatsapp.net
 0.0.0.0 dmp.c8.net.ua
 0.0.0.0 dmpm6.c8.net.ua
 0.0.0.0 dsp.c8.net.ua
@@ -208,6 +215,8 @@
 0.0.0.0 edu.adpro.com.ua
 0.0.0.0 eiorwithitofsti.com.ua
 0.0.0.0 emaidan.com.ua.clearwebstats.com
+0.0.0.0 email.pampers.ua
+0.0.0.0 email.ua.pampers.com
 0.0.0.0 emailsender.opinion.com.ua
 0.0.0.0 emailsender2.opinion.com.ua
 0.0.0.0 engage.3m.com.ua
@@ -216,6 +225,7 @@
 0.0.0.0 esputnik.com
 0.0.0.0 esputnik.com.ua
 0.0.0.0 eth.pp.ua
+0.0.0.0 etl.tindersparks.com
 0.0.0.0 exchange.informer.ua
 0.0.0.0 exo.kiev.ua
 0.0.0.0 f-log-at.grammarly.io
@@ -245,6 +255,7 @@
 0.0.0.0 go.rcvlinks.com
 0.0.0.0 go.xl.ua
 0.0.0.0 google.c8.net.ua
+0.0.0.0 googleadapis.l.google.com
 0.0.0.0 gremlimes9.in.ua
 0.0.0.0 h.holder.com.ua
 0.0.0.0 hereabithec.com.ua
@@ -291,6 +302,7 @@
 0.0.0.0 lightstep-collector.api.ua.com
 0.0.0.0 link.booknet.ua
 0.0.0.0 liq-payment.com.ua
+0.0.0.0 log.tiktokv.com
 0.0.0.0 login.c8.net.ua
 0.0.0.0 loox.io
 0.0.0.0 lpzxed.uai.com.br
@@ -329,6 +341,7 @@
 0.0.0.0 mi6.mediatraffic.com.ua
 0.0.0.0 mladvertistsldah.com.ua
 0.0.0.0 mmi.bemobile.ua
+0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 motorwardso.com.ua
 0.0.0.0 muixnuxmu.vn.ua
 0.0.0.0 mycounter.com.ua
@@ -352,7 +365,10 @@
 0.0.0.0 nextclick.com.ua
 0.0.0.0 nfused.eobuv.com.ua
 0.0.0.0 ninja.data.olxcdn.com
+0.0.0.0 nissan.ua.d1.sc.omtrdc.net
+0.0.0.0 nissan.ua.ssl.d1.sc.omtrdc.net
 0.0.0.0 nord.adr.com.ua
+0.0.0.0 notes-analytics-events.apple.com
 0.0.0.0 o1283262.ingest.sentry.io
 0.0.0.0 obkom.net.ua
 0.0.0.0 obmen.starstudio.org.ua
@@ -389,6 +405,7 @@
 0.0.0.0 payouts.salesdoubler.com.ua
 0.0.0.0 paywall.forbes.ua
 0.0.0.0 pdmp.c8.net.ua
+0.0.0.0 pg.pampers.ua
 0.0.0.0 philipselectronicsne.tt.omtrdc.net
 0.0.0.0 piccy.org.ua
 0.0.0.0 piwik.devgroup.com.ua
@@ -411,7 +428,9 @@
 0.0.0.0 pm.opinion.com.ua
 0.0.0.0 pokazuha.pp.ua
 0.0.0.0 pppp.bitrix24site.ua
+0.0.0.0 pps-log.op-mobile.opera.com
 0.0.0.0 preview.uatrmb.adhese.coms
+0.0.0.0 privatestats.whatsapp.net
 0.0.0.0 profile.salesdoubler.com.ua
 0.0.0.0 promo.gogo.org.ua
 0.0.0.0 proxy.php.in.ua
@@ -437,6 +456,7 @@
 0.0.0.0 remp.nv.ua
 0.0.0.0 renehavis.com.ua
 0.0.0.0 richads.com
+0.0.0.0 rlog.9gag.com
 0.0.0.0 roks.ua
 0.0.0.0 rubikon6.if.ua
 0.0.0.0 rysheatlengthani.com.ua
@@ -499,10 +519,13 @@
 0.0.0.0 stats.playzone.in.ua
 0.0.0.0 stats.rbc.ua
 0.0.0.0 stats.top-top.com.ua
+0.0.0.0 stocks-analytics-events.apple.com
+0.0.0.0 stocks-analytics-events.news.apple-dns.net
 0.0.0.0 storoukr.net
 0.0.0.0 svc.kartinka.com.ua
 0.0.0.0 syndication.twitter.com
 0.0.0.0 system.holder.com.ua
+0.0.0.0 t.adx.opera.com
 0.0.0.0 t.cdn.holder.com.ua
 0.0.0.0 t.holder.com.ua
 0.0.0.0 target.ukr.net
@@ -524,6 +547,7 @@
 0.0.0.0 trafmag.com
 0.0.0.0 travel.salesdoubler.com.ua
 0.0.0.0 treatment.grammarly.com
+0.0.0.0 trk.pinterest.com
 0.0.0.0 tsnakeman.net.ua
 0.0.0.0 tsr.cdns.com.ua
 0.0.0.0 tyw.salesdoubler.com.ua
@@ -534,6 +558,8 @@
 0.0.0.0 ulerkr.ukrzoloto.ua
 0.0.0.0 um1.cdn.umh.ua
 0.0.0.0 untusthemailha.com.ua
+0.0.0.0 us04logfiles-va.zoom.us
+0.0.0.0 us04logfiles.zoom.us
 0.0.0.0 utt.impactcdn.com
 0.0.0.0 uzkh.lg.ua
 0.0.0.0 v.holder.com.ua
@@ -541,6 +567,7 @@
 0.0.0.0 viprelax.com.ua
 0.0.0.0 vost.com.ua
 0.0.0.0 vplayer.mmi.bemobile.ua
+0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 web.salesdoubler.com.ua
 0.0.0.0 web.webpushs.com
 0.0.0.0 weblog.com.ua
@@ -552,6 +579,8 @@
 0.0.0.0 worldofrest.com.ua
 0.0.0.0 wprixk.brocard.ua
 0.0.0.0 ww2.uai.cl
+0.0.0.0 www-google-analytics.l.google.com
+0.0.0.0 www.a-counter.kiev.ua
 0.0.0.0 www.a.newsyzekonomii.com.ua
 0.0.0.0 www.adnet.com.ua
 0.0.0.0 www.adpro.com.ua
@@ -567,6 +596,7 @@
 0.0.0.0 www.beespace.com.ua
 0.0.0.0 www.c8.net.ua
 0.0.0.0 www.claspo.io
+0.0.0.0 www.email.ua.pampers.com
 0.0.0.0 www.frog-record.webnode.com.ua
 0.0.0.0 www.gamblingua.com.ua
 0.0.0.0 www.google-analytics.com
@@ -588,9 +618,9 @@
 0.0.0.0 www.newsnet.in.ua
 0.0.0.0 www.opel.km.ua
 0.0.0.0 www.opinion.com.ua
+0.0.0.0 www.pg.pampers.ua
 0.0.0.0 www.pppp.bitrix24site.ua
 0.0.0.0 www.slivki.com.ua
-0.0.0.0 www2.a-counter.kiev.ua
 0.0.0.0 xunyc.uticen.in.ua
 0.0.0.0 yadro.ru
 0.0.0.0 yfedatherappear.com.ua
