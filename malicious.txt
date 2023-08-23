@@ -1,6 +1,6 @@
 # --------------------------------------------[INFO]------------------------------------------------
 #
-# Title: Websites that host or contain malware, ransomware, or piracy.
+# Title: Malware / Ransomware / Piracy
 # Region: UA (Ukraine)
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists

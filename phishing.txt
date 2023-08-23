@@ -1,11 +1,11 @@
 # --------------------------------------------[INFO]------------------------------------------------
 #
-# Title: Phishing site filters.
+# Title: Phishing / Scam
 # Region: UA (Ukraine)
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 2833
+# Total number of filters: 2839
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -615,6 +615,7 @@
 0.0.0.0 elso-gos.top
 0.0.0.0 elspirgeltmens.gq
 0.0.0.0 emax.kiev.ua
+0.0.0.0 en-ukr.net
 0.0.0.0 enow-survey.top
 0.0.0.0 epaidslife.shop
 0.0.0.0 epicentrk-bonus.online
@@ -1555,6 +1556,7 @@
 0.0.0.0 p2pcenter.top
 0.0.0.0 p2phome.top
 0.0.0.0 p2ponline.top
+0.0.0.0 pa-ukr.net
 0.0.0.0 page-1063196182.at.ua
 0.0.0.0 page-my-il.at.ua
 0.0.0.0 paid24get.shop
@@ -2003,6 +2005,7 @@
 0.0.0.0 star-rates-award.brandj.xyz
 0.0.0.0 starbox-terminal.com.ua
 0.0.0.0 starlink-ukraine.net
+0.0.0.0 starlinkukraine.com
 0.0.0.0 starnet.lutsk.ua
 0.0.0.0 start-auto.kiev.ua
 0.0.0.0 startsmart.com.ua
@@ -2209,6 +2212,8 @@
 0.0.0.0 ukraine-furniture.com.ua
 0.0.0.0 ukraine-mvs.site
 0.0.0.0 ukraine-payment.com.ua
+0.0.0.0 ukraine24dopomoga.online
+0.0.0.0 ukraine24dopomoga.site
 0.0.0.0 ukraineamazon.com
 0.0.0.0 ukraineamazon.pro
 0.0.0.0 ukrainecross.org
@@ -2225,6 +2230,7 @@
 0.0.0.0 ukrainepays.site
 0.0.0.0 ukrainerozetka.com
 0.0.0.0 ukrainerozetka.vip
+0.0.0.0 ukrainestarlink.com
 0.0.0.0 ukrainian-inform.com
 0.0.0.0 ukrainianamazon.com
 0.0.0.0 ukrainianshop.online

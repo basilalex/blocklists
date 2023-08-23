@@ -1,6 +1,6 @@
 # --------------------------------------------[INFO]------------------------------------------------
 #
-# Title: Websites that sells illegal medicines.
+# Title: Illegal medicines
 # Region: UA (Ukraine)
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists

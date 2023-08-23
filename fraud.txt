@@ -1,6 +1,6 @@
 # --------------------------------------------[INFO]------------------------------------------------
 #
-# Title: The fraud websites filters.
+# Title: Fraud
 # Region: UA (Ukraine)
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists

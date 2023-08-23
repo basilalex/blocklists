@@ -1,6 +1,6 @@
 # --------------------------------------------[INFO]------------------------------------------------
 #
-# Title: Filters out websites that promote smoking and vaping, as well as online stores that offer equipment.
+# Title: Smoking / Vaping / Hookahs
 # Region: UA (Ukraine)
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists

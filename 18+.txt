@@ -1,11 +1,11 @@
 # --------------------------------------------[INFO]------------------------------------------------
 #
-# Title: Filters for 18+ websites.
+# Title: 18+
 # Region: UA (Ukraine)
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 193
+# Total number of filters: 203
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -28,6 +28,7 @@
 0.0.0.0 any.com.ua
 0.0.0.0 bagira.net.ua
 0.0.0.0 banana.net.ua
+0.0.0.0 beacons.ai
 0.0.0.0 besterotic.io.com.ua
 0.0.0.0 bestporn.io.ua
 0.0.0.0 bncom.com.ua
@@ -39,6 +40,7 @@
 0.0.0.0 danni.com.ua
 0.0.0.0 dartvader.io.com.ua
 0.0.0.0 devki.in.ua
+0.0.0.0 direct.me
 0.0.0.0 dreamescort.com.ua
 0.0.0.0 e-sex-shop.com.ua
 0.0.0.0 e-sex.com.ua
@@ -75,8 +77,10 @@
 0.0.0.0 gia.com.ua
 0.0.0.0 girls.io.com.ua
 0.0.0.0 happyend.com.ua
+0.0.0.0 heylink.me
 0.0.0.0 hot-news.ho.com.ua
 0.0.0.0 hot-shop24.in.ua
+0.0.0.0 hubzter.com
 0.0.0.0 i.io.com.ua
 0.0.0.0 infoporn.org.ua
 0.0.0.0 insex.com.ua
@@ -96,6 +100,7 @@
 0.0.0.0 lana.in.ua
 0.0.0.0 lavids.at.ua
 0.0.0.0 lesbo.io.com.ua
+0.0.0.0 linkgenie.co
 0.0.0.0 linktr.ee
 0.0.0.0 lollipop.com.ua
 0.0.0.0 love.tyt.in.ua
@@ -110,7 +115,9 @@
 0.0.0.0 mir-intima.ua
 0.0.0.0 models.ua
 0.0.0.0 mordinson.com.ua
+0.0.0.0 msha.ke
 0.0.0.0 mur-amur.com.ua
+0.0.0.0 myslink.app
 0.0.0.0 nacked.io.com.ua
 0.0.0.0 nadiya.dp.ua
 0.0.0.0 new.io.com.ua
@@ -184,12 +191,14 @@
 0.0.0.0 sexytale.in.ua
 0.0.0.0 shop-sex.com.ua
 0.0.0.0 shury-mury.ua
+0.0.0.0 snipfeed.co
 0.0.0.0 sobaka.com.ua
 0.0.0.0 soblazn.com.ua
 0.0.0.0 sonia.com.ua
 0.0.0.0 sorom.com.ua
 0.0.0.0 spacesex.com.ua
 0.0.0.0 sssex.io.com.ua
+0.0.0.0 taplink.cc
 0.0.0.0 tetki.com.ua
 0.0.0.0 thegreen.com.ua
 0.0.0.0 top-models.com.ua
@@ -206,5 +215,6 @@
 0.0.0.0 viprelax.com.ua
 0.0.0.0 vsexshope.com.ua
 0.0.0.0 whiterabbitxxx.com.ua
+0.0.0.0 www.linktr.ee
 0.0.0.0 xnxx.com.ua
 0.0.0.0 xteen.io.com.ua

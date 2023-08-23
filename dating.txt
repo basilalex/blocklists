@@ -1,11 +1,11 @@
 # --------------------------------------------[INFO]------------------------------------------------
 #
-# Title: Online dating site filters.
+# Title: Dating / Dating agencies
 # Region: UA (Ukraine)
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 136
+# Total number of filters: 137
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -33,6 +33,7 @@
 0.0.0.0 cafeclub.ua
 0.0.0.0 clock.faudicascomphigh.tk
 0.0.0.0 csd.kiev.ua
+0.0.0.0 dating-favorit.life
 0.0.0.0 datingbridge.org
 0.0.0.0 datingforum.com.ua
 0.0.0.0 datinginternational.com

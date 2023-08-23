@@ -1,27 +1,27 @@
-# Blocklists
+# Ukraine Region-specific DNS blocklist
 
 ## Details:
 
-A set of hosts files for the UA (Ukraine) region's domain blocking. These lists ought to be used in addition to others.
+The blocklist aims to provide a safer and more seamless online experience by detecting and classifying domains connected with phishing, malware, scams, pornographic material, and other issues in Ukraine's online environment. By including this blocklist into your DNS settings, you may successfully stop cyber attacks and harmful web components throughout the domain resolution process.
+
+## Lists
+
+| List                                                                         | Description                          |
+| ---------------------------------------------------------------------------- | ------------------------------------ |
+| [18+](https://github.com/basilalex/blocklists/blob/main/18+.txt)             | 18+                                  |
+| [Abuse](https://github.com/basilalex/blocklists/blob/main/abuse.txt)         | Abuse                                |
+| [Dating](https://github.com/basilalex/blocklists/blob/main/dating.txt)       | Dating / Dating agencies             |
+| [Drugs](https://github.com/basilalex/blocklists/blob/main/drugs.txt)         | Illegal medicines                    |
+| [Fraud](https://github.com/basilalex/blocklists/blob/main/fraud.txt)         | Fraud                                |
+| [Gambling](https://github.com/basilalex/blocklists/blob/main/gambling.txt)   | Gambling                             |
+| [Malicious](https://github.com/basilalex/blocklists/blob/main/malicious.txt) | Malware / Ransomware / Piracy        |
+| [Phishing](https://github.com/basilalex/blocklists/blob/main/phishing.txt)   | Phishing / Scam                      |
+| [Privacy](https://github.com/basilalex/blocklists/blob/main/privacy.txt)     | Ads / Tracking / Privacy / Analytics |
+| [Smoking](https://github.com/basilalex/blocklists/blob/main/smoking.txt)     | Smoking / Vaping / Hookahs           |
 
 All urls are listed in the host files as follows:
 
 **0.0.0.0 example.com**
-
-## Lists
-
-| List                                                                       | Description                                                                                          |
-| -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [18+](https://github.com/basilalex/blocklists/blob/main/18+.txt)           | Filters for 18+ websites.                                                                            |
-| [Abuse](https://github.com/basilalex/blocklists/blob/main/abuse.txt)       | Filters for abusive websites.                                                                        |
-| [Ads](https://github.com/basilalex/blocklists/blob/main/ads.txt)           | Ads, tracking, privacy, and redirection filters.                                                     |
-| [Dating](https://github.com/basilalex/blocklists/blob/main/dating.txt)     | Online dating site filters.                                                                          |
-| [Drugs](https://github.com/basilalex/blocklists/blob/main/drugs.txt)       | Websites that sells illegal medicines.                                                               |
-| [Fraud](https://github.com/basilalex/blocklists/blob/main/fraud.txt)       | The fraud websites filters.                                                                          |
-| [Gambling](https://github.com/basilalex/blocklists/blob/main/gambling.txt) | Filters for legal and illegal gambling sites.                                                        |
-| [Malware](https://github.com/basilalex/blocklists/blob/main/malware.txt)   | Websites that host or contain malware, ransomware, or piracy.                                        |
-| [Phishing](https://github.com/basilalex/blocklists/blob/main/phishing.txt) | Phishing site filters                                                                                |
-| [Smoking](https://github.com/basilalex/blocklists/blob/main/phishing.txt)  | Filters out websites that promote smoking and vaping, as well as online stores that offer equipment. |
 
 ## <a href="https://pi-hole.net" target="_blank">Pi-Hole</a> instructions:
 
@@ -46,5 +46,3 @@ Thank you to the following list maintainers of the sources that were partially u
 ## License:
 
 For more details, see the [LICENSE](https://github.com/basilalex/ua-hosts/blob/main/LICENSE) file.
-
-<!-- tracking blocklist filterlist malware pi-hole phishing ads domains hosts adblock ua adblock-list pi-hole-blocklists pi-hole-lists -->

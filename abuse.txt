@@ -1,6 +1,6 @@
 # --------------------------------------------[INFO]------------------------------------------------
 #
-# Title: Filters for abusive websites.
+# Title: Abuse
 # Region: UA (Ukraine)
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
