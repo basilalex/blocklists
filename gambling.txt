@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 313
+# Total number of filters: 314
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -188,6 +188,7 @@
 0.0.0.0 perfumes.in.ua
 0.0.0.0 pin-up.ua
 0.0.0.0 pkldwmuasn.berx.com.ua
+0.0.0.0 pm.ua
 0.0.0.0 poker-bet.com
 0.0.0.0 poker-play.com.ua
 0.0.0.0 poker.ua

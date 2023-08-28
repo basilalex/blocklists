@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 203
+# Total number of filters: 205
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -26,6 +26,7 @@
 0.0.0.0 amy.com.ua
 0.0.0.0 anshop.in.ua
 0.0.0.0 any.com.ua
+0.0.0.0 asagency.be
 0.0.0.0 bagira.net.ua
 0.0.0.0 banana.net.ua
 0.0.0.0 beacons.ai
@@ -101,6 +102,7 @@
 0.0.0.0 lavids.at.ua
 0.0.0.0 lesbo.io.com.ua
 0.0.0.0 linkgenie.co
+0.0.0.0 linkgenie.net
 0.0.0.0 linktr.ee
 0.0.0.0 lollipop.com.ua
 0.0.0.0 love.tyt.in.ua

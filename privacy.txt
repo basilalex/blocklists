@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 813
+# Total number of filters: 815
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -15,8 +15,6 @@
 #
 # --------------------------------------------[FILTERS]---------------------------------------------
 
-0.0.0.0 widget.intercom.io
-0.0.0.0 webtracking-v01.bpmonline.com
 0.0.0.0 0.141.hostpro.com.ua
 0.0.0.0 101546558065714944325.uads.cc
 0.0.0.0 103951623568270598926.uads.cc
@@ -278,6 +276,7 @@
 0.0.0.0 e0-u.cdn.holder.com.ua
 0.0.0.0 e2.molbuk.ua
 0.0.0.0 eanddrsgankru.com.ua
+0.0.0.0 edge-mqtt.facebook.com
 0.0.0.0 edu.adpro.com.ua
 0.0.0.0 eiorwithitofsti.com.ua
 0.0.0.0 emaidan.com.ua.clearwebstats.com
@@ -294,11 +293,13 @@
 0.0.0.0 eth.pp.ua
 0.0.0.0 etl.tindersparks.com
 0.0.0.0 events.redditmedia.com
+0.0.0.0 events.statsigapi.net
 0.0.0.0 exchange.informer.ua
 0.0.0.0 exo.kiev.ua
 0.0.0.0 experiments.mozilla.org
 0.0.0.0 extmaps-api.yandex.net
 0.0.0.0 f-log-at.grammarly.io
+0.0.0.0 f-log-extension.grammarly.io
 0.0.0.0 f-log-test.grammarly.io
 0.0.0.0 face.mediatraffic.com.ua
 0.0.0.0 fantastika.in.ua
@@ -349,6 +350,7 @@
 0.0.0.0 googletagmanager.com
 0.0.0.0 grant.rewards.brave.com
 0.0.0.0 graph.facebook.net
+0.0.0.0 graph.instagram.com
 0.0.0.0 gremlimes9.in.ua
 0.0.0.0 gruene.matomo.cloud
 0.0.0.0 h.holder.com.ua
@@ -366,6 +368,7 @@
 0.0.0.0 i.theglobepost.us
 0.0.0.0 i.ua-passport.top
 0.0.0.0 i1.services.social.microsoft.com
+0.0.0.0 ichnaea.netflix.com
 0.0.0.0 id.google.com.ua
 0.0.0.0 idc.com.ua
 0.0.0.0 ili.pp.ua
@@ -620,19 +623,13 @@
 0.0.0.0 samsungadhub.com
 0.0.0.0 samsungads.com
 0.0.0.0 scmdocs.nvidia.com
-0.0.0.0 ichnaea.netflix.com
 0.0.0.0 scontent.xx.fbcdn.net
-0.0.0.0 edge-mqtt.facebook.com
-0.0.0.0 star.c10r.facebook.com
 0.0.0.0 script.claspo.io
 0.0.0.0 scripts.claspo.io
-0.0.0.0 v10.events.data.microsoft.com
 0.0.0.0 scripts.mycounter.com.ua
 0.0.0.0 scripts.mycounter.ua
-0.0.0.0 graph.instagram.com
 0.0.0.0 secure.esputnik.com.ua
 0.0.0.0 secure.gaug.es
-0.0.0.0 f-log-extension.grammarly.io
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 self.c8.net.ua
@@ -667,6 +664,7 @@
 0.0.0.0 st1.prosto.im
 0.0.0.0 stage.www.avast.ua.cms.int.avast.com
 0.0.0.0 stagegeforce.geforce.com
+0.0.0.0 star.c10r.facebook.com
 0.0.0.0 starting-kit-int.salesdoubler.com.ua
 0.0.0.0 starting-kit.salesdoubler.com.ua
 0.0.0.0 starting-kits.salesdoubler.com.ua
@@ -696,6 +694,7 @@
 0.0.0.0 stats.top-top.com.ua
 0.0.0.0 statsfe2.update.microsoft.com
 0.0.0.0 statsfe2.ws.microsoft.com
+0.0.0.0 statsigapi.net
 0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 stocks-analytics-events.news.apple-dns.net
 0.0.0.0 storoukr.net
@@ -752,6 +751,7 @@
 0.0.0.0 utt.impactcdn.com
 0.0.0.0 uzkh.lg.ua
 0.0.0.0 v.holder.com.ua
+0.0.0.0 v10.events.data.microsoft.com
 0.0.0.0 v10.vortex-win.data.microsoft.com
 0.0.0.0 variations.brave.com
 0.0.0.0 viberapi.opinion.com.ua
@@ -765,9 +765,11 @@
 0.0.0.0 web.salesdoubler.com.ua
 0.0.0.0 web.webpushs.com
 0.0.0.0 weblog.com.ua
+0.0.0.0 webtracking-v01.bpmonline.com
 0.0.0.0 webvitals.luxnet.ua
 0.0.0.0 weeklyad.target.com
 0.0.0.0 weeklyad.target.com.edgesuite.net
+0.0.0.0 widget.intercom.io
 0.0.0.0 widget.trustpilot.com
 0.0.0.0 widgets.binotel.com
 0.0.0.0 widgets.coingecko.com
