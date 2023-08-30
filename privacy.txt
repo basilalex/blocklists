@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 846
+# Total number of filters: 857
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -142,6 +142,7 @@
 0.0.0.0 api-hotjar.com
 0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 api.c8.net.ua
+0.0.0.0 api.campaigns.notino.com
 0.0.0.0 api.instabug.com
 0.0.0.0 api.nsju.org.ua
 0.0.0.0 api.rewards.brave.com
@@ -227,6 +228,7 @@
 0.0.0.0 cdn.pendo.io
 0.0.0.0 cdn.rozetka.com.ua
 0.0.0.0 cdn.slots.baxter.olx.org
+0.0.0.0 cdn.speedcurve.com
 0.0.0.0 cdn.umh.ua
 0.0.0.0 cgtgwa.best.lt.ua
 0.0.0.0 chernivtsi.dynamo.ua
@@ -280,6 +282,7 @@
 0.0.0.0 dmp.c8.net.ua
 0.0.0.0 dmpm6.c8.net.ua
 0.0.0.0 doubleclick.net
+0.0.0.0 download.databreakers.com
 0.0.0.0 dsp.c8.net.ua
 0.0.0.0 dtoottuleringv.com.ua
 0.0.0.0 duo.nvidia.com
@@ -346,6 +349,7 @@
 0.0.0.0 get.mycounter.ua
 0.0.0.0 getpocket.cdn.mozilla.net
 0.0.0.0 githubapp.com
+0.0.0.0 glb.notinoimg.com
 0.0.0.0 global.adserver.yahoo.com
 0.0.0.0 globalpostback.salesdoubler.com.ua
 0.0.0.0 glxdlf.tickets.ua
@@ -378,6 +382,7 @@
 0.0.0.0 i.cdn.holder.com.ua
 0.0.0.0 i.holder.com.ua
 0.0.0.0 i.mediatraffic.com.ua
+0.0.0.0 i.parfums.ua
 0.0.0.0 i.theglobepost.us
 0.0.0.0 i.ua-passport.top
 0.0.0.0 i1.services.social.microsoft.com
@@ -402,6 +407,7 @@
 0.0.0.0 itwasbrghttohi.com.ua
 0.0.0.0 ivxmwj.bonprix.ua
 0.0.0.0 iw.holder.com.ua
+0.0.0.0 jnn-pa.googleapis.com
 0.0.0.0 js-agent.newrelic.com
 0.0.0.0 js.hs-scripts.com
 0.0.0.0 js.mediatraffic.com.ua
@@ -533,6 +539,7 @@
 0.0.0.0 openx.ilive.com.ua
 0.0.0.0 opera-van.com
 0.0.0.0 opinion.com.ua
+0.0.0.0 opus.analytics.yahoo.com
 0.0.0.0 orbit.lun.ua
 0.0.0.0 orevbi.lamoda.ua
 0.0.0.0 orhisseache.com.ua
@@ -640,11 +647,13 @@
 0.0.0.0 s.holder.com.ua
 0.0.0.0 s.mediatraffic.com.ua
 0.0.0.0 s.uadx.com
+0.0.0.0 s.yimg.com
 0.0.0.0 sa.api.intl.miui.com
 0.0.0.0 salesdoubler.com.ua
 0.0.0.0 salesdoubler.ua
 0.0.0.0 samsungadhub.com
 0.0.0.0 samsungads.com
+0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 scmdocs.nvidia.com
 0.0.0.0 scontent.xx.fbcdn.net
 0.0.0.0 script.claspo.io
@@ -766,7 +775,9 @@
 0.0.0.0 tsr.cdns.com.ua
 0.0.0.0 tyw.salesdoubler.com.ua
 0.0.0.0 u.holder.com.ua
+0.0.0.0 u.mailkit.eu
 0.0.0.0 uberflip.com
+0.0.0.0 udc.yahoo.com
 0.0.0.0 ufa.uberflip.com
 0.0.0.0 uhd5nn09mgml.fort-shop.kiev.ua
 0.0.0.0 ukrainianwallcom.top-js-metrics.top.my.ua
