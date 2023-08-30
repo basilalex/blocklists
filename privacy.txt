@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 815
+# Total number of filters: 846
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -38,6 +38,7 @@
 0.0.0.0 a4.overclockers.ua
 0.0.0.0 a4p.adpartner.pro
 0.0.0.0 a5.overclockers.ua
+0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 ab.adpro.com.ua
 0.0.0.0 abw.fraza.ua
 0.0.0.0 ac.adpro.com.ua
@@ -50,6 +51,7 @@
 0.0.0.0 ad.ua.doubleclick.net
 0.0.0.0 adcore.ua
 0.0.0.0 add.in.ua
+0.0.0.0 ade.googlesyndication.com
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 admin.byte.in.ua
 0.0.0.0 admin.uamobile.net
@@ -67,6 +69,7 @@
 0.0.0.0 ads-serve.brave.com
 0.0.0.0 ads-sg.tiktok.com
 0.0.0.0 ads-twitter.com
+0.0.0.0 ads.avads.net
 0.0.0.0 ads.aws.viber.com
 0.0.0.0 ads.budsvit.ua
 0.0.0.0 ads.facebook.com
@@ -89,6 +92,7 @@
 0.0.0.0 adserver.fahrenheit.ua
 0.0.0.0 adserver.newforces.com.ua
 0.0.0.0 adserver.sl.kharkov.ua
+0.0.0.0 adservice.google.com
 0.0.0.0 adservice.google.com.ua
 0.0.0.0 adservice.google.ua
 0.0.0.0 adv.fraza.ua
@@ -117,6 +121,7 @@
 0.0.0.0 analytics.gallex.com.ua
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.itbox.ua
+0.0.0.0 analytics.makeup.global
 0.0.0.0 analytics.metro.ua
 0.0.0.0 analytics.mobile.yandex.net
 0.0.0.0 analytics.pgncs.notion.so
@@ -179,6 +184,8 @@
 0.0.0.0 beam.remp.nv.ua
 0.0.0.0 beespace.com.ua
 0.0.0.0 berthformttet.com.ua
+0.0.0.0 bid.contextweb.com
+0.0.0.0 bidder.criteo.com
 0.0.0.0 bigdata.riamedia.com.ua
 0.0.0.0 bigdata.ssp.samsung.com
 0.0.0.0 biz.ua
@@ -195,6 +202,7 @@
 0.0.0.0 c.microsoft.com
 0.0.0.0 c.opinion.com.ua
 0.0.0.0 c.uarating.com
+0.0.0.0 c1.adform.net
 0.0.0.0 c1.microsoft.com
 0.0.0.0 c8.net.ua
 0.0.0.0 callmenow.com.ua
@@ -204,6 +212,7 @@
 0.0.0.0 ccs2.ua.edu
 0.0.0.0 cdn-scripts.signifyd.com
 0.0.0.0 cdn.ad.xiaomi.com
+0.0.0.0 cdn.ampproject.org
 0.0.0.0 cdn.bmcdn3.com
 0.0.0.0 cdn.c8.net.ua
 0.0.0.0 cdn.claspo.io
@@ -211,6 +220,7 @@
 0.0.0.0 cdn.getpush.net
 0.0.0.0 cdn.gravitec.net
 0.0.0.0 cdn.holder.com.ua
+0.0.0.0 cdn.lenmit.com
 0.0.0.0 cdn.matomo.cloud
 0.0.0.0 cdn.membrana.media
 0.0.0.0 cdn.onthe.io
@@ -227,6 +237,7 @@
 0.0.0.0 click.uamtrk.com
 0.0.0.0 client-office365-tas.msedge.net
 0.0.0.0 clientconfig.passport.net
+0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 code.curs.net.ua
 0.0.0.0 cofnix.hillary-shop.com.ua
 0.0.0.0 config.edge.skype.com
@@ -304,6 +315,7 @@
 0.0.0.0 face.mediatraffic.com.ua
 0.0.0.0 fantastika.in.ua
 0.0.0.0 faq.salesdoubler.com.ua
+0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 fbintegration.salesdoubler.com.ua
 0.0.0.0 femetrics.grammarly.io
 0.0.0.0 fenix-translation.com.ua
@@ -346,6 +358,7 @@
 0.0.0.0 googleadapis.l.google.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleadservices.com
+0.0.0.0 googleoptimize.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 grant.rewards.brave.com
@@ -368,6 +381,7 @@
 0.0.0.0 i.theglobepost.us
 0.0.0.0 i.ua-passport.top
 0.0.0.0 i1.services.social.microsoft.com
+0.0.0.0 ib.adnxs.com
 0.0.0.0 ichnaea.netflix.com
 0.0.0.0 id.google.com.ua
 0.0.0.0 idc.com.ua
@@ -466,6 +480,7 @@
 0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 monorail-edge.shopifysvc.com
 0.0.0.0 motorwardso.com.ua
+0.0.0.0 mp.4dex.io
 0.0.0.0 mscrl.microsoft.com
 0.0.0.0 muixnuxmu.vn.ua
 0.0.0.0 mycounter.com.ua
@@ -528,9 +543,11 @@
 0.0.0.0 out02.cdn.holder.com.ua
 0.0.0.0 out04.cdn.holder.com.ua
 0.0.0.0 out05.cdn.holder.com.ua
+0.0.0.0 ow.pubmatic.com
 0.0.0.0 owbroinothiermon.com.ua
 0.0.0.0 p.c8.net.ua
 0.0.0.0 p.cab.ua
+0.0.0.0 p11.techlab-cdn.com
 0.0.0.0 p3a.brave.com
 0.0.0.0 pabxoe.olx.ua
 0.0.0.0 pagead2.googlesyndication.com
@@ -565,6 +582,7 @@
 0.0.0.0 piwik.yakaboo.ua
 0.0.0.0 pixel.c8.net.ua
 0.0.0.0 pixel.facebook.com
+0.0.0.0 pixel.tapad.com
 0.0.0.0 pjtlme.rozetka.com.ua
 0.0.0.0 placeholder.treeum.net
 0.0.0.0 planner.holder.com.ua
@@ -575,12 +593,14 @@
 0.0.0.0 pokazuha.pp.ua
 0.0.0.0 pppp.bitrix24site.ua
 0.0.0.0 pps-log.op-mobile.opera.com
+0.0.0.0 prebid.media.net
 0.0.0.0 preview.uatrmb.adhese.coms
 0.0.0.0 pricelist.skype.com
 0.0.0.0 privatestats.whatsapp.net
 0.0.0.0 profile.salesdoubler.com.ua
 0.0.0.0 promo.gogo.org.ua
 0.0.0.0 proxy.php.in.ua
+0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 push.esputnik.com
 0.0.0.0 push.esputnik.com.ua
 0.0.0.0 pusk.ua
@@ -596,6 +616,7 @@
 0.0.0.0 rang.com.ua
 0.0.0.0 rdr.salesdoubler.com.ua
 0.0.0.0 realtime.www.linkedin.com
+0.0.0.0 rebid-server.rubiconproject.com
 0.0.0.0 rec2000.at.ua
 0.0.0.0 recreativ.com.ua
 0.0.0.0 redmine.salesdoubler.com.ua
@@ -609,6 +630,8 @@
 0.0.0.0 rlog.9gag.com
 0.0.0.0 roks.ua
 0.0.0.0 routerfeedback.asus.com
+0.0.0.0 rtb.adpone.com
+0.0.0.0 rtb.adxpremium.services
 0.0.0.0 rubikon6.if.ua
 0.0.0.0 rysheatlengthani.com.ua
 0.0.0.0 s.gateway.messenger.live.com
@@ -640,6 +663,7 @@
 0.0.0.0 sex4u.lg.ua
 0.0.0.0 shadowsecurity.net.ua
 0.0.0.0 showcase.salesdoubler.com.ua
+0.0.0.0 signal-metrics-collector-beta.s-onetag.com
 0.0.0.0 site-submit.com.ua
 0.0.0.0 skgroup.kiev.ua
 0.0.0.0 sky.od.ua
@@ -657,6 +681,7 @@
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 sslpagestat.mmi.bemobile.ua
 0.0.0.0 sslvplayer.mmi.bemobile.ua
+0.0.0.0 ssp-sync.criteo.com
 0.0.0.0 ssp.c8.net.ua
 0.0.0.0 sstats.uascrubs.com
 0.0.0.0 ssw.live.com www.msftncsi.com
@@ -700,11 +725,14 @@
 0.0.0.0 storoukr.net
 0.0.0.0 supportmetrics.apple.com
 0.0.0.0 svc.kartinka.com.ua
+0.0.0.0 sync.search.spotxchange.com
 0.0.0.0 syndication.twitter.com
 0.0.0.0 system.holder.com.ua
 0.0.0.0 t.adx.opera.com
 0.0.0.0 t.cdn.holder.com.ua
 0.0.0.0 t.holder.com.ua
+0.0.0.0 t.mookie1.com
+0.0.0.0 t.pubmatic.com
 0.0.0.0 t.urs.microsoft.com
 0.0.0.0 target.ukr.net
 0.0.0.0 teaser.meta.ua
@@ -722,6 +750,7 @@
 0.0.0.0 track.vbet.ua
 0.0.0.0 tracker.beam.remp.nv.ua
 0.0.0.0 tracker.bigl.ua
+0.0.0.0 tracker.multisearch.io
 0.0.0.0 tracker.novage.com.ua
 0.0.0.0 tracker.prom.ua
 0.0.0.0 tracking.miui.com
@@ -799,6 +828,7 @@
 0.0.0.0 www.frog-record.webnode.com.ua
 0.0.0.0 www.gamblingua.com.ua
 0.0.0.0 www.google-analytics.com
+0.0.0.0 www.googleoptimize.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.gremlimes9.in.ua
 0.0.0.0 www.hit.ua
@@ -820,6 +850,7 @@
 0.0.0.0 www.pg.pampers.ua
 0.0.0.0 www.pppp.bitrix24site.ua
 0.0.0.0 www.slivki.com.ua
+0.0.0.0 x.bidswitch.net
 0.0.0.0 xunyc.uticen.in.ua
 0.0.0.0 yadro.ru
 0.0.0.0 yandexadexchange.net

@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 314
+# Total number of filters: 315
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -272,6 +272,7 @@
 0.0.0.0 unitemp.com.ua
 0.0.0.0 va-bank.com.ua
 0.0.0.0 vavada.com
+0.0.0.0 vbet.ua
 0.0.0.0 vbetua.com
 0.0.0.0 vegasslotsonline.com
 0.0.0.0 versii.com
