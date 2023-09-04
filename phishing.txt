@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 2839
+# Total number of filters: 2842
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -1525,6 +1525,7 @@
 0.0.0.0 oshadbank.groxs.yachts
 0.0.0.0 oshadbank.online
 0.0.0.0 oshadbank.pro
+0.0.0.0 oshadbank.uaperekaz2p2.pw
 0.0.0.0 oshadbank.uk
 0.0.0.0 oshadbank.website
 0.0.0.0 oshadbank24.win
@@ -1711,6 +1712,7 @@
 0.0.0.0 privatbank.in.ua
 0.0.0.0 privatbank.online-pays.tech
 0.0.0.0 privatbank.payment-system.cloud
+0.0.0.0 privatbank.uaperekaz2p2.pw
 0.0.0.0 privatbankcredit.com
 0.0.0.0 privatbnk.com
 0.0.0.0 privatbua.com
@@ -1837,6 +1839,7 @@
 0.0.0.0 raiffeisen.perekaz24.website
 0.0.0.0 raiffeisen.space
 0.0.0.0 raiffeisen.tu-auch.quest
+0.0.0.0 raiffeisen.uaperekaz2p2.pw
 0.0.0.0 raiffeisen.vip
 0.0.0.0 raiffeisen24.shop
 0.0.0.0 raiffeisen24.uk
