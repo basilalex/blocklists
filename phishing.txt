@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 2842
+# Total number of filters: 2852
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -492,6 +492,7 @@
 0.0.0.0 dopomoga23.top
 0.0.0.0 dopomoga24.com
 0.0.0.0 dopomoga24.me
+0.0.0.0 dopomoga24.site
 0.0.0.0 dopomoga24pay.win
 0.0.0.0 dopomoga24pruvat.cfd
 0.0.0.0 dopomoga24pruvat.sbs
@@ -1218,6 +1219,7 @@
 0.0.0.0 mobilluck.com.ua
 0.0.0.0 mobilpay.com.ua
 0.0.0.0 mobipay-ua.com
+0.0.0.0 mobiplategi.lol
 0.0.0.0 mobitop.biz
 0.0.0.0 mobiworld.shop
 0.0.0.0 moblobmen.org
@@ -1250,6 +1252,7 @@
 0.0.0.0 muli-gan.me
 0.0.0.0 musicgeneration.com.ua
 0.0.0.0 mvduk.kiev.ua
+0.0.0.0 mvs-gov.online
 0.0.0.0 mvs-gov.space
 0.0.0.0 mvs-ua.online
 0.0.0.0 mvs-ua.space
@@ -1417,6 +1420,7 @@
 0.0.0.0 omegapro.world
 0.0.0.0 ominir.gq
 0.0.0.0 omp-gos.top
+0.0.0.0 on-ukr.net
 0.0.0.0 ondorazovaya-viplata24.space
 0.0.0.0 onfey.ru
 0.0.0.0 onlin24-ukrsibbanck.uks6.site
@@ -1521,6 +1525,7 @@
 0.0.0.0 oshad-cash.pro
 0.0.0.0 oshad-pedtrimka.online
 0.0.0.0 oshad.24get.site
+0.0.0.0 oshad.online
 0.0.0.0 oshadbank.gomoneyua.site
 0.0.0.0 oshadbank.groxs.yachts
 0.0.0.0 oshadbank.online
@@ -1668,6 +1673,7 @@
 0.0.0.0 privacy502.at.ua
 0.0.0.0 privacy503.at.ua
 0.0.0.0 privat-24.3sdx.site
+0.0.0.0 privat-bank-ua.com
 0.0.0.0 privat-blago24.3diy.site
 0.0.0.0 privat-i.org
 0.0.0.0 privat-trade.com
@@ -1874,6 +1880,7 @@
 0.0.0.0 re-social.xyz
 0.0.0.0 recive-money.icu
 0.0.0.0 recivemoney.icu
+0.0.0.0 recovery-ukr.net
 0.0.0.0 red-finance.com.ua
 0.0.0.0 redcross-34.site
 0.0.0.0 redcrossbezl.yolasite.com
@@ -2229,6 +2236,7 @@
 0.0.0.0 ukrainehelps.cloud
 0.0.0.0 ukrainehotspothelp.com
 0.0.0.0 ukraineopross.yolasite.com
+0.0.0.0 ukrainepay.site
 0.0.0.0 ukrainepaymentsystem.pro
 0.0.0.0 ukrainepays.site
 0.0.0.0 ukrainerozetka.com
@@ -2270,6 +2278,7 @@
 0.0.0.0 unic-numder.frontime-pro.ru
 0.0.0.0 unicef-help.info
 0.0.0.0 unicef-uk.com
+0.0.0.0 unicef24.site
 0.0.0.0 uniceforg.com
 0.0.0.0 unicefua.news
 0.0.0.0 unicefukrainedonate.com
@@ -2832,6 +2841,7 @@
 0.0.0.0 yh3v-prom.go2winner.com
 0.0.0.0 yoogle.com.ua
 0.0.0.0 your-pay.info
+0.0.0.0 yr-ukr.net
 0.0.0.0 ytk-hermes.com.ua
 0.0.0.0 yur.org.ua
 0.0.0.0 zabros.shop
