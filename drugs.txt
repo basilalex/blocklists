@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 187
+# Total number of filters: 210
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -15,9 +15,11 @@
 #
 # --------------------------------------------[FILTERS]---------------------------------------------
 
-0.0.0.0 bongstar.com.ua
+0.0.0.0 100500dobavok.com.ua
 0.0.0.0 585.kiev.ua
 0.0.0.0 allstoreonline.com.ua
+0.0.0.0 amakmeble.pl
+0.0.0.0 ambal-ua.com
 0.0.0.0 americanpharmacyjobs.com.ua
 0.0.0.0 americanpharmashop.com.ua
 0.0.0.0 apothecarydiscounts.com.ua
@@ -47,8 +49,11 @@
 0.0.0.0 bestpharmacytech.com.ua
 0.0.0.0 bestpharmaonline.com.ua
 0.0.0.0 bestseniorpharmacy.com.ua
+0.0.0.0 biceps-ua.com
 0.0.0.0 biography.nbuv.gov.ua
 0.0.0.0 biopharmacytech.com.ua
+0.0.0.0 blackside.com.ua
+0.0.0.0 bongstar.com.ua
 0.0.0.0 buy-online-pharma.com.ua
 0.0.0.0 buy-onlinepharmacy.com.ua
 0.0.0.0 buy-pharma-online.com.ua
@@ -63,12 +68,14 @@
 0.0.0.0 buypharma-online.com.ua
 0.0.0.0 buypharmacy-online.com.ua
 0.0.0.0 buypharmaonline.com.ua
+0.0.0.0 buysteroids.in.ua
 0.0.0.0 canadianpharmacyaffiliates.com.ua
 0.0.0.0 canadianpharmacyoutlet.com.ua
 0.0.0.0 canadianpharmacysite.com.ua
 0.0.0.0 cancercarepharmacy.com.ua
 0.0.0.0 click.alfaname.biz.ua
 0.0.0.0 crescentpharmacyonline.com.ua
+0.0.0.0 dobavki.ua
 0.0.0.0 doctorse.com.ua
 0.0.0.0 doctorsp.com.ua
 0.0.0.0 doctorst.com.ua
@@ -85,6 +92,7 @@
 0.0.0.0 flystoreonline.com.ua
 0.0.0.0 footcarepharmacy.com.ua
 0.0.0.0 forensicmedicineweb.com.ua
+0.0.0.0 gd-pharm.pro
 0.0.0.0 genemedicineweb.com.ua
 0.0.0.0 generalstoreweb.com.ua
 0.0.0.0 geneticmedicineweb.com.ua
@@ -95,6 +103,7 @@
 0.0.0.0 gomedpocket.pl.ua
 0.0.0.0 gomedturn.pl.ua
 0.0.0.0 gomedwear.pl.ua
+0.0.0.0 gormonrosta.net.ua
 0.0.0.0 greatglobalpharmacy.com.ua
 0.0.0.0 greathealthpharmacy.com.ua
 0.0.0.0 greatpharmacyprescription.com.ua
@@ -102,8 +111,12 @@
 0.0.0.0 greatpharmashop.com.ua
 0.0.0.0 greatpricepharmacy.com.ua
 0.0.0.0 grocerystoreweb.com.ua
+0.0.0.0 himhub.com.ua
+0.0.0.0 himpromo.store
 0.0.0.0 holisticmedicineweb.com.ua
 0.0.0.0 homepharmacydirect.com.ua
+0.0.0.0 hulk.in.ua
+0.0.0.0 hulkshop.com.ua
 0.0.0.0 inclusiveducation.org.ua
 0.0.0.0 instoreinternet.com.ua
 0.0.0.0 internalmedicineweb.com.ua
@@ -115,6 +128,7 @@
 0.0.0.0 makeshopbuy.com.ua
 0.0.0.0 mattermonstrous.org.ua
 0.0.0.0 mdnowdeep.pl.ua
+0.0.0.0 med1.ltd
 0.0.0.0 medicationjobs.com.ua
 0.0.0.0 medicineonlineguide.com.ua
 0.0.0.0 medicinewebcam.com.ua
@@ -181,15 +195,23 @@
 0.0.0.0 rockmail.pl.ua
 0.0.0.0 shinloss.pl.ua
 0.0.0.0 shoppharmacyonline.com.ua
+0.0.0.0 shopsteroid24.com
 0.0.0.0 shopstorefinder.com.ua
 0.0.0.0 showme.pp.ua
 0.0.0.0 silenceadult.pl.ua
+0.0.0.0 stero1d.pro
+0.0.0.0 steroid-shop.in.ua
+0.0.0.0 steroidshopua.com
+0.0.0.0 strong-muscle.com.ua
+0.0.0.0 sust.net.ua
 0.0.0.0 themedicineweb.com.ua
 0.0.0.0 thepharmacycard.com.ua
 0.0.0.0 thepharmacyweb.com.ua
+0.0.0.0 topfarma.com.ua
 0.0.0.0 toppharmacyguide.com.ua
 0.0.0.0 toppharmacyshop.com.ua
 0.0.0.0 toystoreweb.com.ua
+0.0.0.0 ukrdoping.com
 0.0.0.0 usastoreweb.com.ua
 0.0.0.0 viagra-shop.com.ua
 0.0.0.0 vigrx.sells.com.ua
@@ -198,6 +220,7 @@
 0.0.0.0 wreckgradual.pl.ua
 0.0.0.0 wreckprotest.pl.ua
 0.0.0.0 wristextend.pl.ua
+0.0.0.0 www.amakmeble.pl
 0.0.0.0 www.kievautogroup.com.ua
 0.0.0.0 www.navigator.net.ua
 0.0.0.0 www.showme.pp.ua
