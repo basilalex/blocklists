@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 278
+# Total number of filters: 290
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -34,6 +34,7 @@
 0.0.0.0 beacons.ai
 0.0.0.0 besterotic.io.com.ua
 0.0.0.0 bestporn.io.ua
+0.0.0.0 bingo.net.ua
 0.0.0.0 bncom.com.ua
 0.0.0.0 boosty.to
 0.0.0.0 bordelero.net
@@ -48,12 +49,14 @@
 0.0.0.0 devozki.com
 0.0.0.0 direct.me
 0.0.0.0 dnepropetrovsk.natashaescort.com
+0.0.0.0 dosug-x.com
 0.0.0.0 dosug-x.net
 0.0.0.0 dreamescort.com.ua
 0.0.0.0 e-sex-shop.com.ua
 0.0.0.0 e-sex.com.ua
 0.0.0.0 ebiteua.com
 0.0.0.0 elite-girls-kiev.com
+0.0.0.0 empire-massage.lviv.ua
 0.0.0.0 en.devozki.com
 0.0.0.0 erio.com.ua
 0.0.0.0 ero.com.ua
@@ -87,6 +90,7 @@
 0.0.0.0 first-lady.me
 0.0.0.0 flex.at.ua
 0.0.0.0 fn.com.ua
+0.0.0.0 forum.prostikom.com
 0.0.0.0 fotovoyeur.at.ua
 0.0.0.0 freeones.com.ua
 0.0.0.0 freetime.in.ua
@@ -94,6 +98,7 @@
 0.0.0.0 gay.ucoz.ua
 0.0.0.0 gdetochka.at.ua
 0.0.0.0 gia.com.ua
+0.0.0.0 girko.net
 0.0.0.0 girls.io.com.ua
 0.0.0.0 happyend.com.ua
 0.0.0.0 happyescorts.com
@@ -111,6 +116,7 @@
 0.0.0.0 intim.com.ua
 0.0.0.0 intim.dn.ua
 0.0.0.0 intim.obyhiv.com
+0.0.0.0 intimday.com
 0.0.0.0 intimdream.com.ua
 0.0.0.0 intimgirls.net
 0.0.0.0 intimka.com.ua
@@ -160,10 +166,12 @@
 0.0.0.0 nadiya.dp.ua
 0.0.0.0 natashaescort.com
 0.0.0.0 new.io.com.ua
+0.0.0.0 night-angels.com.ua
 0.0.0.0 non-stop.com.ua
 0.0.0.0 notaboo.in.ua
 0.0.0.0 nudevideo.pp.ua
 0.0.0.0 odessa.natashaescort.com
+0.0.0.0 ogosex.com.ua
 0.0.0.0 onenightescort.com
 0.0.0.0 onlyfans.com
 0.0.0.0 pandoxxx.at.ua
@@ -187,6 +195,7 @@
 0.0.0.0 prostitutkidnepra.info
 0.0.0.0 prostitutkidnepra.party
 0.0.0.0 putana.com.ua
+0.0.0.0 rafinad-strip.com
 0.0.0.0 realnoe.at.ua
 0.0.0.0 relaxdir.com
 0.0.0.0 relaxdnepr.com
@@ -258,6 +267,7 @@
 0.0.0.0 sorom.com.ua
 0.0.0.0 spacesex.com.ua
 0.0.0.0 sssex.io.com.ua
+0.0.0.0 strip.ua
 0.0.0.0 studio20.live
 0.0.0.0 taplink.cc
 0.0.0.0 tetki.com.ua
@@ -282,6 +292,7 @@
 0.0.0.0 vipmassage.com.ua
 0.0.0.0 vipmolly.net
 0.0.0.0 viprelax.com.ua
+0.0.0.0 virtual.ua
 0.0.0.0 vsexshope.com.ua
 0.0.0.0 wariswebsite.mobi
 0.0.0.0 webcamstudio.pro
@@ -290,6 +301,7 @@
 0.0.0.0 www.escort-gallery.com
 0.0.0.0 www.eurogirlsescort.com
 0.0.0.0 www.linktr.ee
+0.0.0.0 www.night-angels.com.ua
 0.0.0.0 xnxx.com.ua
 0.0.0.0 xteen.io.com.ua
 0.0.0.0 zori.studio

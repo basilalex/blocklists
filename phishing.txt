@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 2859
+# Total number of filters: 2875
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -51,6 +51,7 @@
 0.0.0.0 3ds-connect.top
 0.0.0.0 3ds-paymetos.site
 0.0.0.0 3ds-ua.top
+0.0.0.0 3ds-vlsa.com
 0.0.0.0 3varta.com.ua
 0.0.0.0 450.vipmoney.xyz
 0.0.0.0 4lv.ru
@@ -192,6 +193,7 @@
 0.0.0.0 atkassa24.top
 0.0.0.0 atlanttv.com.ua
 0.0.0.0 atlasbank.cc
+0.0.0.0 au-ukr.net
 0.0.0.0 auctionbaggage.com
 0.0.0.0 auditus.ua
 0.0.0.0 aupayer.top
@@ -236,6 +238,7 @@
 0.0.0.0 bassein-ukraine.com
 0.0.0.0 bbaja.cn
 0.0.0.0 bcmebel.com.ua
+0.0.0.0 be-ukr.net
 0.0.0.0 beads-needs.com
 0.0.0.0 belvas.com.ua
 0.0.0.0 bestchangetest1.zzz.com.ua
@@ -245,6 +248,7 @@
 0.0.0.0 bezpeka-online-24.su
 0.0.0.0 bezpekaua.info
 0.0.0.0 bfgnet.com.ua
+0.0.0.0 bg-ukr.net
 0.0.0.0 bgifts.com.ua
 0.0.0.0 big-uah.top
 0.0.0.0 bigodino.com.ua
@@ -297,6 +301,9 @@
 0.0.0.0 cachemaster-ukr.com
 0.0.0.0 canada.yescenter.com.ua
 0.0.0.0 car-prays.online
+0.0.0.0 card-ua.cloud
+0.0.0.0 card-ua.pro
+0.0.0.0 card-ua.shop
 0.0.0.0 card2card.net
 0.0.0.0 card2cardua.online
 0.0.0.0 cardonline.top
@@ -396,6 +403,7 @@
 0.0.0.0 dayprices.shop
 0.0.0.0 dazzlingcortex.com
 0.0.0.0 de-gos.top
+0.0.0.0 de-ukr.net
 0.0.0.0 deal-loads.site
 0.0.0.0 dear-gos.top
 0.0.0.0 delivery-pay.website
@@ -428,6 +436,7 @@
 0.0.0.0 descopontos-id-20925.resgateclientes.co.ua
 0.0.0.0 designp.org
 0.0.0.0 detskiykvartal.uk
+0.0.0.0 device-by-apple-ua.store
 0.0.0.0 diaa-ukraine.site
 0.0.0.0 diaa-ukraine.space
 0.0.0.0 diaaukraine.site
@@ -443,6 +452,7 @@
 0.0.0.0 diving-turizm.com
 0.0.0.0 diya-edopomoga.online
 0.0.0.0 dl-gos.top
+0.0.0.0 dmsu-ukr.pp.ua
 0.0.0.0 dneprodent.com.ua
 0.0.0.0 dom-pchely.com.ua
 0.0.0.0 domopoga-ua.nopersonexty.online
@@ -1415,6 +1425,9 @@
 0.0.0.0 olx.ua.oformlenie.space
 0.0.0.0 olx.ua.safedeal.bar
 0.0.0.0 olx.ua.safedostavka.xyz
+0.0.0.0 olxdoostavka-ua.shop
+0.0.0.0 olxdosstavka-ua.shop
+0.0.0.0 olxdostavka-ua.shop
 0.0.0.0 olxposhta.com
 0.0.0.0 olxua.pay-deelivery-24.com
 0.0.0.0 om-auto.ru
@@ -1464,6 +1477,8 @@
 0.0.0.0 opendata-hsc-gov-ua.com
 0.0.0.0 opendata-hsc-gov-ua.online
 0.0.0.0 opendata-hsc-gov-ua.store
+0.0.0.0 opendata-mvs.com.ua
+0.0.0.0 opendata-mvs.online
 0.0.0.0 openkredovik.top
 0.0.0.0 opi-gos.top
 0.0.0.0 oprosgrand2019.space
@@ -1581,7 +1596,9 @@
 0.0.0.0 pay-pro.com.ua
 0.0.0.0 pay-seven.info
 0.0.0.0 pay-sistems24.com.ua
+0.0.0.0 pay-ua.cloud
 0.0.0.0 pay-ua.pics
+0.0.0.0 pay-ua.pro
 0.0.0.0 pay.api-pay.net
 0.0.0.0 pay.liqpay.info
 0.0.0.0 pay.ocxa-ua.top
@@ -2149,6 +2166,7 @@
 0.0.0.0 ua-compenses.top
 0.0.0.0 ua-gos.top
 0.0.0.0 ua-ir.com.ua
+0.0.0.0 ua-onlinepay.shop
 0.0.0.0 ua-oschaad.cloud
 0.0.0.0 ua-oschaad.online
 0.0.0.0 ua-oschaad.shop
@@ -2395,6 +2413,10 @@
 0.0.0.0 vippaidsforum.shop
 0.0.0.0 vippaidsgroup.shop
 0.0.0.0 visa-asia.com.ua
+0.0.0.0 visa-ua.cloud
+0.0.0.0 visa-ua.pro
+0.0.0.0 visa-ua.shop
+0.0.0.0 visa-ua.xyz
 0.0.0.0 visasend.tech
 0.0.0.0 visastandard.tech
 0.0.0.0 vitaer.com.ua
@@ -2868,9 +2890,3 @@
 0.0.0.0 zrdom.com.ua
 0.0.0.0 zsu-family.online
 0.0.0.0 zsu-family.site
-0.0.0.0 au-ukr.net
-0.0.0.0 be-ukr.net
-0.0.0.0 bg-ukr.net
-0.0.0.0 de-ukr.net
-0.0.0.0 dmsu-ukr.pp.ua
-0.0.0.0 opendata-mvs.com.ua
