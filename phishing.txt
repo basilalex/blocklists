@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 2875
+# Total number of filters: 2876
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -269,6 +269,7 @@
 0.0.0.0 blockchain.victoryzorkina.pp.ua
 0.0.0.0 blogiumbursellcusa20.icu
 0.0.0.0 blogkassa.shop
+0.0.0.0 bluedome3.wordpress.com
 0.0.0.0 bnservice.com.ua
 0.0.0.0 bocymatoma.butilar.com
 0.0.0.0 bonus-email.aaclp.top
