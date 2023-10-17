@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 2877
+# Total number of filters: 2880
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -242,6 +242,7 @@
 0.0.0.0 beads-needs.com
 0.0.0.0 belvas.com.ua
 0.0.0.0 bestchangetest1.zzz.com.ua
+0.0.0.0 bestcrutches.com
 0.0.0.0 bestrike.com.ua
 0.0.0.0 besttransfer-ukr.com
 0.0.0.0 betxwin.bet
@@ -1100,6 +1101,7 @@
 0.0.0.0 lauaul.anuill.com
 0.0.0.0 law-med.com.ua
 0.0.0.0 leaterplus.com.ua
+0.0.0.0 leemsedo.co.ua
 0.0.0.0 lesopilka-group.com.ua
 0.0.0.0 letiletiavia.online
 0.0.0.0 letokonkurs.site
@@ -2892,3 +2894,4 @@
 0.0.0.0 zrdom.com.ua
 0.0.0.0 zsu-family.online
 0.0.0.0 zsu-family.site
+0.0.0.0 ukraineishop.com.ua
