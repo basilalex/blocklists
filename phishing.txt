@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 2880
+# Total number of filters: 2883
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -2895,3 +2895,6 @@
 0.0.0.0 zsu-family.online
 0.0.0.0 zsu-family.site
 0.0.0.0 ukraineishop.com.ua
+0.0.0.0 maxi-store.com.ua
+0.0.0.0 pheenecs.com.ua
+0.0.0.0 support-account-ukr.net
