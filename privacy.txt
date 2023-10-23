@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 859
+# Total number of filters: 858
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -52,7 +52,6 @@
 0.0.0.0 adcore.ua
 0.0.0.0 add.in.ua
 0.0.0.0 ade.googlesyndication.com
-0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 admin.byte.in.ua
 0.0.0.0 admin.uamobile.net
 0.0.0.0 admixer.ua
