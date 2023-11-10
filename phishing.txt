@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 3136
+# Total number of filters: 3147
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -15,8 +15,6 @@
 #
 # --------------------------------------------[FILTERS]---------------------------------------------
 
-0.0.0.0 awsmall.net
-0.0.0.0 awsvip.cc
 0.0.0.0 0nkassashop.shop
 0.0.0.0 0nlinepaidlife.shop
 0.0.0.0 0nlykasatop.shop
@@ -28,6 +26,7 @@
 0.0.0.0 1001go1oc.kl.com.ua
 0.0.0.0 100215533s.at.ua
 0.0.0.0 100234987514.at.ua
+0.0.0.0 100bankiv.com.ua
 0.0.0.0 102364a.at.ua
 0.0.0.0 105489a.at.ua
 0.0.0.0 12dz.com
@@ -113,6 +112,7 @@
 0.0.0.0 afters-opros.top
 0.0.0.0 agit27rooniz.buzz
 0.0.0.0 agmarkets.cc
+0.0.0.0 agogo01.top
 0.0.0.0 agro-souz.simdif.com
 0.0.0.0 agro-souzz.simdif.com
 0.0.0.0 agrozahist-poltava.com.ua
@@ -226,6 +226,8 @@
 0.0.0.0 avtorizaciyadankingtelegram.simdif.com
 0.0.0.0 avtorizaciyaoschadi.simdif.com
 0.0.0.0 avtorizaciyaoschadid.simdif.com
+0.0.0.0 awsmall.net
+0.0.0.0 awsvip.cc
 0.0.0.0 aykks.top
 0.0.0.0 azzssxddvv.at.ua
 0.0.0.0 babycar.od.ua
@@ -310,6 +312,7 @@
 0.0.0.0 buymiui.com.ua
 0.0.0.0 bvs-rabota.net
 0.0.0.0 byurodp.gq
+0.0.0.0 c787888.com
 0.0.0.0 ca-jsc-credit-agricole-bank-ukraine.ru.aptoide.com
 0.0.0.0 cachemaster-ukr.com
 0.0.0.0 canada.yescenter.com.ua
@@ -413,6 +416,7 @@
 0.0.0.0 crm.get-skills.com.ua
 0.0.0.0 cryptocurrency-helps-ukraine.com
 0.0.0.0 csd-lab.com
+0.0.0.0 csd.c787888.com
 0.0.0.0 cybe-gos.top
 0.0.0.0 daily-news.com.ua
 0.0.0.0 damilk.com.ua
@@ -653,6 +657,7 @@
 0.0.0.0 emax.kiev.ua
 0.0.0.0 en-ukr.net
 0.0.0.0 enersit.com
+0.0.0.0 enot-sale.com.ua
 0.0.0.0 enow-survey.top
 0.0.0.0 epaidslife.shop
 0.0.0.0 epicentrk-bonus.online
@@ -721,6 +726,7 @@
 0.0.0.0 findopomoga.sbs
 0.0.0.0 finevid.pp.ua
 0.0.0.0 finua.online
+0.0.0.0 firstgrader.com.ua
 0.0.0.0 fish-ok.com
 0.0.0.0 fishing-centr.com
 0.0.0.0 fishki.biz.ua
@@ -851,6 +857,7 @@
 0.0.0.0 gooyle.com.ua
 0.0.0.0 gopgle.com.ua
 0.0.0.0 gos-viplata.top
+0.0.0.0 goshoppings01.com
 0.0.0.0 goturozetka.com
 0.0.0.0 goturozetka.vip
 0.0.0.0 gov-ua.buzz
@@ -961,6 +968,7 @@
 0.0.0.0 ibank-atcib.com
 0.0.0.0 ibankdesco-online.co.ua
 0.0.0.0 ibox-city.com.ua
+0.0.0.0 icanshop.pp.ua
 0.0.0.0 idis.com.ua
 0.0.0.0 idl-updatefb.at.ua
 0.0.0.0 igoog.ru
@@ -1684,6 +1692,7 @@
 0.0.0.0 page-my-il.at.ua
 0.0.0.0 paid24get.shop
 0.0.0.0 palyvo.shop
+0.0.0.0 panda-sale.com.ua
 0.0.0.0 parfums.top
 0.0.0.0 partner.biz.ua
 0.0.0.0 parts-m.com.ua
@@ -1769,6 +1778,7 @@
 0.0.0.0 plategi-city.com.ua
 0.0.0.0 platizh.com
 0.0.0.0 platizhmob.com
+0.0.0.0 pledu-ukr31.pp.ua
 0.0.0.0 pochemuchka.kiev.ua
 0.0.0.0 podarok-ua.space
 0.0.0.0 polimat.com.ua
@@ -2737,6 +2747,7 @@
 0.0.0.0 www.ads-info6.at.ua
 0.0.0.0 www.aerosol.com.ua
 0.0.0.0 www.afters-opros.top
+0.0.0.0 www.agogo01.top
 0.0.0.0 www.agrozahist-poltava.com.ua
 0.0.0.0 www.airties.net.ua
 0.0.0.0 www.alba.in.ua
@@ -2845,6 +2856,7 @@
 0.0.0.0 www.good-store.in.ua
 0.0.0.0 www.goodstore-ua.shop
 0.0.0.0 www.goodstore.in.ua
+0.0.0.0 www.goshoppings01.com
 0.0.0.0 www.grac-opros.top
 0.0.0.0 www.grace.co.ua
 0.0.0.0 www.gratis.com.ua
@@ -3115,6 +3127,7 @@
 0.0.0.0 xwallet.website
 0.0.0.0 yakor.shop
 0.0.0.0 yakudzamoto.com.ua
+0.0.0.0 yalunka-ukraine.com.ua
 0.0.0.0 yandex.biz.ua
 0.0.0.0 yearemail19.top
 0.0.0.0 yescenter.com.ua
@@ -3149,5 +3162,3 @@
 0.0.0.0 zrdom.com.ua
 0.0.0.0 zsu-family.online
 0.0.0.0 zsu-family.site
-0.0.0.0 100bankiv.com.ua
-0.0.0.0 yalunka-ukraine.com.ua
