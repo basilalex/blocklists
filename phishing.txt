@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 3147
+# Total number of filters: 3149
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -1347,6 +1347,7 @@
 0.0.0.0 my-govuwvyplatte.site
 0.0.0.0 my-kyivstar.com.ua
 0.0.0.0 mycosyhome.kh.ua
+0.0.0.0 myfrlathome.net
 0.0.0.0 mygovua.info
 0.0.0.0 mygovua.online
 0.0.0.0 mykyivstar.com
@@ -2443,6 +2444,7 @@
 0.0.0.0 ukraine-mvs.site
 0.0.0.0 ukraine-payment.com.ua
 0.0.0.0 ukraine-shop-top.space
+0.0.0.0 ukraine-storehouse.com.ua
 0.0.0.0 ukraine-topp.com.ua
 0.0.0.0 ukraine-topp.online
 0.0.0.0 ukraine-trends.space
