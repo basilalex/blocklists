@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 3149
+# Total number of filters: 3177
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -253,6 +253,7 @@
 0.0.0.0 be-ukr.net
 0.0.0.0 beads-needs.com
 0.0.0.0 belvas.com.ua
+0.0.0.0 best-goods.com.ua
 0.0.0.0 bestchangetest1.zzz.com.ua
 0.0.0.0 bestcrutches.com
 0.0.0.0 bestrike.com.ua
@@ -272,6 +273,7 @@
 0.0.0.0 bistrie-viplati.club
 0.0.0.0 bistrozaim.salesdoubler.com.ua
 0.0.0.0 bitcoin-zuba.ga
+0.0.0.0 bitfinecc.com
 0.0.0.0 blago-kovel.shop
 0.0.0.0 blago-privat24.3ida.site
 0.0.0.0 blago-privat24.d3ya.site
@@ -309,6 +311,7 @@
 0.0.0.0 busfor-ua.payments-cars.com
 0.0.0.0 businespro.ru
 0.0.0.0 businesystem.ru
+0.0.0.0 buy-ua.com.ua
 0.0.0.0 buymiui.com.ua
 0.0.0.0 bvs-rabota.net
 0.0.0.0 byurodp.gq
@@ -414,6 +417,7 @@
 0.0.0.0 creditshome.online
 0.0.0.0 creditsmix.online
 0.0.0.0 crm.get-skills.com.ua
+0.0.0.0 crvearn.com
 0.0.0.0 cryptocurrency-helps-ukraine.com
 0.0.0.0 csd-lab.com
 0.0.0.0 csd.c787888.com
@@ -479,6 +483,7 @@
 0.0.0.0 dl-gos.top
 0.0.0.0 dmsu-ukr.pp.ua
 0.0.0.0 dneprodent.com.ua
+0.0.0.0 doge-earn.com
 0.0.0.0 dom-pchely.com.ua
 0.0.0.0 domopoga-ua.nopersonexty.online
 0.0.0.0 dompaidscentr.shop
@@ -610,6 +615,7 @@
 0.0.0.0 dramatheatrua.fun
 0.0.0.0 draw-opros.top
 0.0.0.0 drone-ua.space
+0.0.0.0 dsshsh.shop
 0.0.0.0 dufafaststinen.gq
 0.0.0.0 dxf.in.ua
 0.0.0.0 e-ctr.com.ua
@@ -912,6 +918,7 @@
 0.0.0.0 help-fynancegov.com
 0.0.0.0 help-gos.top
 0.0.0.0 help-support1.at.ua
+0.0.0.0 help-ua.in.ua
 0.0.0.0 help-ua.social
 0.0.0.0 help-ukrain.xyz
 0.0.0.0 help-ukraine.icu
@@ -1015,6 +1022,7 @@
 0.0.0.0 iprod.kz
 0.0.0.0 ipw-01049004.at.ua
 0.0.0.0 iqos-heets.com.ua
+0.0.0.0 isnuman.com
 0.0.0.0 it-magg.com
 0.0.0.0 itlnu.lviv.ua
 0.0.0.0 itunes.ua
@@ -1173,6 +1181,7 @@
 0.0.0.0 livespace.com.ua
 0.0.0.0 loanalfa.tech
 0.0.0.0 loansecure.tech
+0.0.0.0 lobvsteklpom.pro
 0.0.0.0 localditcolmc.online
 0.0.0.0 localditcolmc.top
 0.0.0.0 localditcolmc.xyz
@@ -1247,6 +1256,7 @@
 0.0.0.0 marvelouslucky.info
 0.0.0.0 mastercardbanking.tech
 0.0.0.0 mastercardspeed.tech
+0.0.0.0 matchamazon.com
 0.0.0.0 matras-centr.com.ua
 0.0.0.0 maxi-store.com.ua
 0.0.0.0 maxlink.click
@@ -1329,6 +1339,7 @@
 0.0.0.0 muli-gan.me
 0.0.0.0 musicgeneration.com.ua
 0.0.0.0 mvduk.kiev.ua
+0.0.0.0 mvs-driver-license.com.ua
 0.0.0.0 mvs-gov.online
 0.0.0.0 mvs-gov.space
 0.0.0.0 mvs-official.space
@@ -1409,6 +1420,9 @@
 0.0.0.0 nova-pay-ua.com
 0.0.0.0 nova-pay.net
 0.0.0.0 nova-poshta-pay.com
+0.0.0.0 nova-poshta.in.ua
+0.0.0.0 nova-poshta.kiev.ua
+0.0.0.0 nova-poshta.org.ua
 0.0.0.0 novapay-ua.com
 0.0.0.0 novapay-ukr.top
 0.0.0.0 novaposhta-pay.live
@@ -1425,6 +1439,7 @@
 0.0.0.0 novaposhta.eu
 0.0.0.0 novaposhta.in
 0.0.0.0 novaposhta.info
+0.0.0.0 novaposhta.kiev.ua
 0.0.0.0 novaposhta.online
 0.0.0.0 novaposhta.org
 0.0.0.0 novaposhta.site
@@ -1573,6 +1588,8 @@
 0.0.0.0 opaddesmusszamky.gq
 0.0.0.0 opay365.com
 0.0.0.0 open-payments.com.ua
+0.0.0.0 opendata-baza-mvs.com.ua
+0.0.0.0 opendata-gov.com.ua
 0.0.0.0 opendata-hsc-gov-ua.com
 0.0.0.0 opendata-hsc-gov-ua.online
 0.0.0.0 opendata-hsc-gov-ua.store
@@ -1677,6 +1694,7 @@
 0.0.0.0 otrimati-ua.site
 0.0.0.0 otrimayviplatu.website
 0.0.0.0 otrumaite.co
+0.0.0.0 otto-shop.com.ua
 0.0.0.0 oukr.net
 0.0.0.0 overhead.adr.com.ua
 0.0.0.0 ovs-gos.top
@@ -2064,6 +2082,7 @@
 0.0.0.0 rewison.ga
 0.0.0.0 rfterua.space
 0.0.0.0 rikter-lor.ru
+0.0.0.0 ringo-bet.net
 0.0.0.0 rivafamily.com.ua
 0.0.0.0 rivershop.com.ua
 0.0.0.0 rockbit.space
@@ -2409,8 +2428,10 @@
 0.0.0.0 ukr-bestseller.com
 0.0.0.0 ukr-buy.com.ua
 0.0.0.0 ukr-cash.top
+0.0.0.0 ukr-discount.com.ua
 0.0.0.0 ukr-dopomog.top
 0.0.0.0 ukr-dopomoga.top
+0.0.0.0 ukr-gifts.com.ua
 0.0.0.0 ukr-help.online
 0.0.0.0 ukr-info.charity
 0.0.0.0 ukr-konkurs.site
@@ -2456,6 +2477,7 @@
 0.0.0.0 ukraineamazon.pro
 0.0.0.0 ukrainebasket.space
 0.0.0.0 ukrainecross.org
+0.0.0.0 ukrainedecor.com.ua
 0.0.0.0 ukrainedevelopmentmission.org
 0.0.0.0 ukrainedrama.fun
 0.0.0.0 ukraineebay.vip
@@ -2495,6 +2517,7 @@
 0.0.0.0 ukrainianstore.site
 0.0.0.0 ukrainianstore.space
 0.0.0.0 ukrainianstoretop.fun
+0.0.0.0 ukrainshop.com.ua
 0.0.0.0 ukrainskapravda.org
 0.0.0.0 ukrainsohoop.fun
 0.0.0.0 ukraintovar.fun
@@ -2525,6 +2548,7 @@
 0.0.0.0 ukrpomosh.site
 0.0.0.0 ukrpomosh.space
 0.0.0.0 ukrpomosh.xyz
+0.0.0.0 ukrposhta.co.ua
 0.0.0.0 ukrpost.ua
 0.0.0.0 ukrsaytonline.fun
 0.0.0.0 ukrschoponline.fun
@@ -2702,6 +2726,7 @@
 0.0.0.0 w-ukr.net
 0.0.0.0 warface-podarki.kl.com.ua
 0.0.0.0 watch-ua.space
+0.0.0.0 wdcfsfsfgbs.com
 0.0.0.0 web-payments.com.ua
 0.0.0.0 web.life-line.in.ua
 0.0.0.0 webinfom.ru
@@ -2787,6 +2812,7 @@
 0.0.0.0 www.bfgnet.com.ua
 0.0.0.0 www.bgifts.com.ua
 0.0.0.0 www.big-partner.kh.ua
+0.0.0.0 www.bitfinecc.com
 0.0.0.0 www.bittel.com.ua
 0.0.0.0 www.botiki.ua
 0.0.0.0 www.box-service.com.ua
@@ -2810,6 +2836,7 @@
 0.0.0.0 www.corpi-gos.top
 0.0.0.0 www.crea-rewt.at.ua
 0.0.0.0 www.crm.get-skills.com.ua
+0.0.0.0 www.crvearn.com
 0.0.0.0 www.currency-ukraine.com
 0.0.0.0 www.damilk.com.ua
 0.0.0.0 www.diving-shop.com.ua
@@ -2817,6 +2844,7 @@
 0.0.0.0 www.dom-pchely.com.ua
 0.0.0.0 www.dopomoga-ua.online
 0.0.0.0 www.dramateatr.fun
+0.0.0.0 www.dsshsh.shop
 0.0.0.0 www.easybox-ukr.com
 0.0.0.0 www.ecoliinfectionpedia.com
 0.0.0.0 www.ekarat.com.ua
