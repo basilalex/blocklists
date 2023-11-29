@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 3177
+# Total number of filters: 3179
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -83,6 +83,7 @@
 0.0.0.0 a-v-z.com.ua
 0.0.0.0 a.newsyzekonomii.com.ua
 0.0.0.0 abank.registrdot.pro
+0.0.0.0 abcdhotel.net
 0.0.0.0 abicor-ukr.com.ua
 0.0.0.0 abox-ukraine.com
 0.0.0.0 abs-techno.ru
@@ -2766,6 +2767,7 @@
 0.0.0.0 www.94.abg.pp.ua
 0.0.0.0 www.a-v-z.com.ua
 0.0.0.0 www.a.newsyzekonomii.com.ua
+0.0.0.0 www.abcdhotel.net
 0.0.0.0 www.abipro.com.ua
 0.0.0.0 www.abra.in.ua
 0.0.0.0 www.add-safety.at.ua
