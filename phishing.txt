@@ -1793,6 +1793,7 @@
 0.0.0.0 pidtrumkadiya.info
 0.0.0.0 pidtrumkadiya.site
 0.0.0.0 pidtrumkapruvat24.world
+0.0.0.0 pillapt.com
 0.0.0.0 pkeedo.co.ua
 0.0.0.0 plategi-city.com.ua
 0.0.0.0 platizh.com
@@ -2272,7 +2273,6 @@
 0.0.0.0 taurus-travel.com.ua
 0.0.0.0 tax-compensation.bar
 0.0.0.0 team.klookva.com.ua
-0.0.0.0 team&#8211;shop.com
 0.0.0.0 tech-start-company.com
 0.0.0.0 technobank.com.ua
 0.0.0.0 technofilter.com.ua
