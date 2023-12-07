@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 3179
+# Total number of filters: 3180
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -2422,6 +2422,7 @@
 0.0.0.0 uaunicef.site
 0.0.0.0 uaunicefs.buzz
 0.0.0.0 uavolunteer-military.com
+0.0.0.0 ubi.investments
 0.0.0.0 ugt.com.ua
 0.0.0.0 uk-konkurs.site
 0.0.0.0 uk-ukr.net
