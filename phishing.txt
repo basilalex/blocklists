@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 3180
+# Total number of filters: 3191
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -175,6 +175,7 @@
 0.0.0.0 api-donate-ukrainehelp.org
 0.0.0.0 api.nsju.org.ua
 0.0.0.0 app-privat24.me
+0.0.0.0 app.mdglobal.site
 0.0.0.0 app4052.at.ua
 0.0.0.0 app4053.at.ua
 0.0.0.0 apple-tech.net
@@ -801,12 +802,15 @@
 0.0.0.0 global-business.su
 0.0.0.0 global-iqos.com
 0.0.0.0 global-print.com.ua
+0.0.0.0 global018.com
 0.0.0.0 globalmani-coin.com
 0.0.0.0 globalnet.tvshop.site
 0.0.0.0 globalonline-ua.com
 0.0.0.0 globalp2p.tech
 0.0.0.0 globalsport.com.ua
 0.0.0.0 globalua.com.ua
+0.0.0.0 globalua38.com
+0.0.0.0 globalukrainian6.com
 0.0.0.0 globapay24.com
 0.0.0.0 glogle.com.ua
 0.0.0.0 glossier.ru.con
@@ -976,6 +980,7 @@
 0.0.0.0 ibank-atcib.com
 0.0.0.0 ibankdesco-online.co.ua
 0.0.0.0 ibox-city.com.ua
+0.0.0.0 iboyun.net
 0.0.0.0 icanshop.pp.ua
 0.0.0.0 idis.com.ua
 0.0.0.0 idl-updatefb.at.ua
@@ -1254,6 +1259,7 @@
 0.0.0.0 market-ua.site
 0.0.0.0 marketexclusive.store
 0.0.0.0 markina.com.ua
+0.0.0.0 marvelmoviepromotion.com
 0.0.0.0 marvelouslucky.info
 0.0.0.0 mastercardbanking.tech
 0.0.0.0 mastercardspeed.tech
@@ -1266,6 +1272,7 @@
 0.0.0.0 mc-ocean.com.ua
 0.0.0.0 mchange.site
 0.0.0.0 mct.ua
+0.0.0.0 mdglobal.site
 0.0.0.0 mdhouse.com.ua
 0.0.0.0 me-raiffsen.charity
 0.0.0.0 mebel-astoria.in.ua
@@ -2728,6 +2735,8 @@
 0.0.0.0 w-ukr.net
 0.0.0.0 warface-podarki.kl.com.ua
 0.0.0.0 watch-ua.space
+0.0.0.0 wbtheaterchain.com
+0.0.0.0 wbtheaterchain.vip
 0.0.0.0 wdcfsfsfgbs.com
 0.0.0.0 web-payments.com.ua
 0.0.0.0 web.life-line.in.ua
@@ -2884,6 +2893,7 @@
 0.0.0.0 www.global-connect.com.ua
 0.0.0.0 www.globalsport.com.ua
 0.0.0.0 www.globalua.com.ua
+0.0.0.0 www.globalukrainian6.com
 0.0.0.0 www.goldpayment-ukr.com
 0.0.0.0 www.good-store-shop.com
 0.0.0.0 www.good-store.in.ua
@@ -3125,6 +3135,7 @@
 0.0.0.0 www.vkvartire.com.ua
 0.0.0.0 www.vspp.org.ua
 0.0.0.0 www.vtav.com.ua
+0.0.0.0 www.wbtheaterchain.com
 0.0.0.0 www.web.life-line.in.ua
 0.0.0.0 www.westpayment-ukr.com
 0.0.0.0 www.wirellc.com.ua
