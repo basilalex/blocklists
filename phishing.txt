@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 3191
+# Total number of filters: 3201
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -231,6 +231,7 @@
 0.0.0.0 awsmall.net
 0.0.0.0 awsvip.cc
 0.0.0.0 aykks.top
+0.0.0.0 azimutheshop.com
 0.0.0.0 azzssxddvv.at.ua
 0.0.0.0 babycar.od.ua
 0.0.0.0 back.multistream.space
@@ -295,6 +296,7 @@
 0.0.0.0 boogle.com.ua
 0.0.0.0 boomer-cinema.me
 0.0.0.0 boomer-cinema.org
+0.0.0.0 bortlaksds.xyz
 0.0.0.0 botiki.ua
 0.0.0.0 bow-gos.top
 0.0.0.0 brade-pontoslivel.co.ua
@@ -763,6 +765,7 @@
 0.0.0.0 free-oplata.com
 0.0.0.0 freevoice4girl.kl.com.ua
 0.0.0.0 freezar.org
+0.0.0.0 friendly-work.kyiv.ua
 0.0.0.0 friscurese.at.ua
 0.0.0.0 frivecures.at.ua
 0.0.0.0 fs-system.ru
@@ -953,6 +956,7 @@
 0.0.0.0 hipx.pro
 0.0.0.0 hit-info.org
 0.0.0.0 hobbi-ua.com
+0.0.0.0 hollywoodfilmjobs8.com
 0.0.0.0 home-internet-kyivstar.com.ua
 0.0.0.0 home-kyivstar.online
 0.0.0.0 homeanimal.site
@@ -1012,6 +1016,7 @@
 0.0.0.0 inquirypatch.top
 0.0.0.0 insurex.ua
 0.0.0.0 intell.in.ua
+0.0.0.0 intelligence-revolution.tilda.ws
 0.0.0.0 inter-plus-ua.com
 0.0.0.0 internet-desco.in.ua
 0.0.0.0 internet-kyivstar.com
@@ -2498,6 +2503,7 @@
 0.0.0.0 ukrainehelps.cloud
 0.0.0.0 ukrainehotspothelp.com
 0.0.0.0 ukraineishop.com.ua
+0.0.0.0 ukrainejobs.xyz
 0.0.0.0 ukrainemag.space
 0.0.0.0 ukrainemarket.site
 0.0.0.0 ukraineonlineshop.fun
@@ -2516,6 +2522,7 @@
 0.0.0.0 ukraineshopp.store
 0.0.0.0 ukrainestarlink.com
 0.0.0.0 ukrainestore.online
+0.0.0.0 ukrainework.online
 0.0.0.0 ukrainian-inform.com
 0.0.0.0 ukrainianamazon.com
 0.0.0.0 ukrainiannews.site
@@ -2605,6 +2612,7 @@
 0.0.0.0 unicombud.kiev.ua
 0.0.0.0 united-dopomoga.pro
 0.0.0.0 united-payment.com.ua
+0.0.0.0 united-work.kyiv.ua
 0.0.0.0 unitus.mk.ua
 0.0.0.0 unix-change.world
 0.0.0.0 unlgame.com
@@ -3111,6 +3119,8 @@
 0.0.0.0 www.ugt.com.ua
 0.0.0.0 www.ukr-garant.com
 0.0.0.0 www.ukraine-box.com
+0.0.0.0 www.ukrainejobs.xyz
+0.0.0.0 www.ukrainework.online
 0.0.0.0 www.ukrnet-box.com
 0.0.0.0 www.ule.com.ua
 0.0.0.0 www.unicombud.com.ua
