@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 3457
+# Total number of filters: 3462
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -944,6 +944,7 @@
 0.0.0.0 grosovadopomoga.shop
 0.0.0.0 group-general.com
 0.0.0.0 groxs.yachts
+0.0.0.0 gt770.com
 0.0.0.0 gtradex.net
 0.0.0.0 gulf-can.com
 0.0.0.0 h-shoes.com.ua
@@ -2284,6 +2285,7 @@
 0.0.0.0 servicepge.at.ua
 0.0.0.0 set-system.com
 0.0.0.0 setup.kiwi.net.ua
+0.0.0.0 seyrosnpaynhe.website
 0.0.0.0 sfcitycampsandleagues.com
 0.0.0.0 shar-city.com.ua
 0.0.0.0 sheshory.com.ua
@@ -2337,6 +2339,7 @@
 0.0.0.0 snasty.shop
 0.0.0.0 snp-broker.io
 0.0.0.0 sntumsa.pl.ua
+0.0.0.0 socprofile.com
 0.0.0.0 some-gos.top
 0.0.0.0 sosenki.com.ua
 0.0.0.0 sosixui.kl.com.ua
@@ -2601,6 +2604,7 @@
 0.0.0.0 uaunicef.site
 0.0.0.0 uaunicefs.buzz
 0.0.0.0 uavolunteer-military.com
+0.0.0.0 ubi-investments.com
 0.0.0.0 ubi.investments
 0.0.0.0 ugt.com.ua
 0.0.0.0 uk-konkurs.site
@@ -3001,6 +3005,7 @@
 0.0.0.0 wdcfsfsfgbs.com
 0.0.0.0 web-payments.com.ua
 0.0.0.0 web.life-line.in.ua
+0.0.0.0 web.seyrosnpaynhe.website
 0.0.0.0 webinfom.ru
 0.0.0.0 weekpaidlife.top
 0.0.0.0 wegroup.com.ua
