@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 290
+# Total number of filters: 291
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -100,6 +100,7 @@
 0.0.0.0 gia.com.ua
 0.0.0.0 girko.net
 0.0.0.0 girls.io.com.ua
+0.0.0.0 goldengirls.com.ua
 0.0.0.0 happyend.com.ua
 0.0.0.0 happyescorts.com
 0.0.0.0 heylink.me
