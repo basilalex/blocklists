@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 3463
+# Total number of filters: 3467
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -683,6 +683,7 @@
 0.0.0.0 edopomoga.edi6.site
 0.0.0.0 edopomoga.mobi
 0.0.0.0 edopomogai24.edi6.site
+0.0.0.0 eebankosdoxla.site
 0.0.0.0 ef-gos.top
 0.0.0.0 egghead.vicom.com.ua
 0.0.0.0 ek-gos.top
@@ -987,6 +988,7 @@
 0.0.0.0 helpukraina.site
 0.0.0.0 helpukraine.direct
 0.0.0.0 helpukraine.uk
+0.0.0.0 helpukraine24na7.tilda.ws
 0.0.0.0 helpukrainemoneydopomoga.com
 0.0.0.0 helpukrainian.site
 0.0.0.0 helpukrpay.com
@@ -2742,6 +2744,7 @@
 0.0.0.0 ukraineproductstore.fun
 0.0.0.0 ukrainerozetka.com
 0.0.0.0 ukrainerozetka.vip
+0.0.0.0 ukraines-gos.top
 0.0.0.0 ukraineshop.space
 0.0.0.0 ukraineshop.top
 0.0.0.0 ukraineshoping.store
@@ -3005,6 +3008,7 @@
 0.0.0.0 wbtheaterchain.vip
 0.0.0.0 wdcfsfsfgbs.com
 0.0.0.0 web-payments.com.ua
+0.0.0.0 web.eebankosdoxla.site
 0.0.0.0 web.life-line.in.ua
 0.0.0.0 web.seyrosnpaynhe.website
 0.0.0.0 webinfom.ru
