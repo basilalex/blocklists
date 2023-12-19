@@ -73,6 +73,7 @@
 0.0.0.0 94.abg.pp.ua
 0.0.0.0 9607.at.ua
 0.0.0.0 9614.at.ua
+0.0.0.0 Macfly-store.com.ua
 0.0.0.0 a-bank.ads-pid.me
 0.0.0.0 a-bank.dopomogaua.xyz
 0.0.0.0 a-bank.no-pay.me
@@ -1295,7 +1296,6 @@
 0.0.0.0 m.mathsnumber.top
 0.0.0.0 m39793.cn
 0.0.0.0 mac-soft.com.ua
-0.0.0.0 Macfly-store.com.ua
 0.0.0.0 macombrotary.com
 0.0.0.0 magazine-ua.store
 0.0.0.0 magazine-ukraine.shop
