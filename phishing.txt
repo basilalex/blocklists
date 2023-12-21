@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 3467
+# Total number of filters: 3475
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -287,6 +287,7 @@
 0.0.0.0 biletland.xyz
 0.0.0.0 biletmaster.xyz
 0.0.0.0 billetshot.top
+0.0.0.0 bio.link
 0.0.0.0 bistrie-viplati.club
 0.0.0.0 bistrozaim.salesdoubler.com.ua
 0.0.0.0 bitcoin-zuba.ga
@@ -531,6 +532,7 @@
 0.0.0.0 dopomoga-ua.site
 0.0.0.0 dopomoga-ua.website
 0.0.0.0 dopomoga-uaweb.website
+0.0.0.0 dopomoga-ukraine.com
 0.0.0.0 dopomoga.agency
 0.0.0.0 dopomoga.app
 0.0.0.0 dopomoga.bio
@@ -543,6 +545,7 @@
 0.0.0.0 dopomoga.health
 0.0.0.0 dopomoga.in
 0.0.0.0 dopomoga.me
+0.0.0.0 dopomoga.newsukrgl.online
 0.0.0.0 dopomoga.observer
 0.0.0.0 dopomoga.pics
 0.0.0.0 dopomoga.place
@@ -1462,6 +1465,7 @@
 0.0.0.0 namemo.ucraft.site
 0.0.0.0 nek0samurai.github.io
 0.0.0.0 neobank.pcs-order.me
+0.0.0.0 netflx-ua.com
 0.0.0.0 nettgola.site
 0.0.0.0 nevrologia.com.ua
 0.0.0.0 new.zooshop.dp.ua
@@ -1785,6 +1789,8 @@
 0.0.0.0 oshad-pedtrimka.online
 0.0.0.0 oshad.24get.site
 0.0.0.0 oshad.online
+0.0.0.0 oshad.space
+0.0.0.0 oshad.website
 0.0.0.0 oshadbank.gomoneyua.site
 0.0.0.0 oshadbank.groxs.yachts
 0.0.0.0 oshadbank.online
@@ -1839,6 +1845,7 @@
 0.0.0.0 parfums.top
 0.0.0.0 partner.biz.ua
 0.0.0.0 parts-m.com.ua
+0.0.0.0 passport-ua.com
 0.0.0.0 patriot-ukraine.fun
 0.0.0.0 patriot-ukraine.info
 0.0.0.0 pay-box.com.ua
@@ -2693,6 +2700,7 @@
 0.0.0.0 ukrainadopomoga24.org
 0.0.0.0 ukrainapays24.pro
 0.0.0.0 ukraine-domopoga.org
+0.0.0.0 ukraine-dopomoga.com
 0.0.0.0 ukraine-furniture.com.ua
 0.0.0.0 ukraine-goodsware.store
 0.0.0.0 ukraine-homedepot.store
