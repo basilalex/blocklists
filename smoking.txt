@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 206
+# Total number of filters: 214
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -38,6 +38,8 @@
 0.0.0.0 bosstabaco.com
 0.0.0.0 calabash.com.ua
 0.0.0.0 chill.com.ua
+0.0.0.0 cig-poshta.in.ua
+0.0.0.0 cigar-opt.com
 0.0.0.0 cigar-tabak.com
 0.0.0.0 cloud-smoke.com
 0.0.0.0 cloudfall.com.ua
@@ -56,6 +58,7 @@
 0.0.0.0 drsmoke.org
 0.0.0.0 duman.com.ua
 0.0.0.0 dumok.ua
+0.0.0.0 dutyfree-sigaret-tabak.kiev.ua
 0.0.0.0 dymok.net.ua
 0.0.0.0 east-smoke.com
 0.0.0.0 easyvape.net
@@ -106,6 +109,7 @@
 0.0.0.0 kalyancity.com.ua
 0.0.0.0 kalyanopt.com.ua
 0.0.0.0 kolbix.com
+0.0.0.0 kontrabas.store
 0.0.0.0 kopikaif.com.ua
 0.0.0.0 kubikvape.com.ua
 0.0.0.0 kupit-snus.in.ua
@@ -143,6 +147,7 @@
 0.0.0.0 sigara.ua
 0.0.0.0 sigaret.net.ua
 0.0.0.0 sigaretka.in.ua
+0.0.0.0 sigiopt.me
 0.0.0.0 skidka.ua
 0.0.0.0 sky-smart.com.ua
 0.0.0.0 smoke-shop.com.ua
@@ -182,8 +187,10 @@
 0.0.0.0 tornado-hs.com
 0.0.0.0 tutun.com.ua
 0.0.0.0 tutunok.com
+0.0.0.0 uasiga.store
 0.0.0.0 uatrava.com
 0.0.0.0 uestore.com.ua
+0.0.0.0 ukrtutun.com
 0.0.0.0 uvape.pro
 0.0.0.0 v7par.com.ua
 0.0.0.0 vandalvape.com.ua
@@ -201,6 +208,7 @@
 0.0.0.0 vapers.in.ua
 0.0.0.0 vaperslab.com.ua
 0.0.0.0 vaperslab.in.ua
+0.0.0.0 vaperstyle.com.ua
 0.0.0.0 vapeshopkiev.com
 0.0.0.0 vapestar.kiev.ua
 0.0.0.0 vapestore.kiev.ua
