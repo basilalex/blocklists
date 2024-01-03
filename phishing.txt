@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 3580
+# Total number of filters: 3584
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -804,6 +804,7 @@
 0.0.0.0 findopomoga.sbs
 0.0.0.0 finevid.pp.ua
 0.0.0.0 finua.online
+0.0.0.0 fioporsudogtberp.cf
 0.0.0.0 firstgrader.com.ua
 0.0.0.0 fish-ok.com
 0.0.0.0 fishing-centr.com
@@ -2433,6 +2434,7 @@
 0.0.0.0 steam019.zzz.com.ua
 0.0.0.0 steamcommunity.co.ua
 0.0.0.0 steamcomnmunity.zzz.com.ua
+0.0.0.0 stecmcommunnity.com
 0.0.0.0 steelfreedom.org.ua
 0.0.0.0 steklo-ua.net
 0.0.0.0 steklo-ua.online
@@ -3120,8 +3122,10 @@
 0.0.0.0 wdcfsfsfgbs.com
 0.0.0.0 web-payments.com.ua
 0.0.0.0 web.eebankosdoxla.site
+0.0.0.0 web.fioporsudogtberp.cf
 0.0.0.0 web.life-line.in.ua
 0.0.0.0 web.seyrosnpaynhe.website
+0.0.0.0 web.weiworlmartoreave.tk
 0.0.0.0 webinfom.ru
 0.0.0.0 weekpaidlife.top
 0.0.0.0 wegroup.com.ua
