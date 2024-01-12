@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 3786
+# Total number of filters: 3813
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -108,6 +108,7 @@
 0.0.0.0 accaunt-ua.fun
 0.0.0.0 accept-opros.top
 0.0.0.0 access.net.ua
+0.0.0.0 accounts-ukr.com
 0.0.0.0 acesso-descobr-login.co.ua
 0.0.0.0 acessodescoresgate.co.ua
 0.0.0.0 aconfrim.at.ua
@@ -267,6 +268,7 @@
 0.0.0.0 badge-gos.top
 0.0.0.0 bahchisaray.in.ua
 0.0.0.0 balantins.com.ua
+0.0.0.0 balilikonstruksion.com
 0.0.0.0 banco-desco.in.ua
 0.0.0.0 bancobradescoresgate.co.ua
 0.0.0.0 bank-alliance.com
@@ -357,6 +359,7 @@
 0.0.0.0 boogle.com.ua
 0.0.0.0 boomer-cinema.me
 0.0.0.0 boomer-cinema.org
+0.0.0.0 bootragolt.icu
 0.0.0.0 bortlaksds.xyz
 0.0.0.0 botiki.ua
 0.0.0.0 bow-gos.top
@@ -561,6 +564,7 @@
 0.0.0.0 diuaaaaxxx.sbs
 0.0.0.0 diving-turizm.com
 0.0.0.0 diya-edopomoga.online
+0.0.0.0 diyanow.balilikonstruksion.com
 0.0.0.0 diyas.io
 0.0.0.0 dl-gos.top
 0.0.0.0 dmsu-ukr.pp.ua
@@ -588,7 +592,9 @@
 0.0.0.0 dopomoga-ua.site
 0.0.0.0 dopomoga-ua.website
 0.0.0.0 dopomoga-uaweb.website
+0.0.0.0 dopomoga-ukraine.cloud
 0.0.0.0 dopomoga-ukraine.com
+0.0.0.0 dopomoga-ukraine.pro
 0.0.0.0 dopomoga.agency
 0.0.0.0 dopomoga.app
 0.0.0.0 dopomoga.bio
@@ -951,6 +957,7 @@
 0.0.0.0 girlyanda.store
 0.0.0.0 giroskuter.net.ua
 0.0.0.0 giveaway.at.ua
+0.0.0.0 gizmosinfo.com
 0.0.0.0 gkogle.com.ua
 0.0.0.0 global-business.su
 0.0.0.0 global-iqos.com
@@ -1098,6 +1105,7 @@
 0.0.0.0 help-ukraine.space
 0.0.0.0 help-ukraine.top
 0.0.0.0 help-ukraine.website
+0.0.0.0 help-vsu-ukraine.com
 0.0.0.0 help24-viplata.me
 0.0.0.0 help24ua.com
 0.0.0.0 help24uapay.com
@@ -1114,6 +1122,7 @@
 0.0.0.0 helpgroshiua.pro
 0.0.0.0 helping-ukr.site
 0.0.0.0 helposchad24.shop
+0.0.0.0 helpspeoples.nicepage.io
 0.0.0.0 helpukr.pro
 0.0.0.0 helpukr.support
 0.0.0.0 helpukr24.com
@@ -1637,6 +1646,7 @@
 0.0.0.0 namemo.ucraft.site
 0.0.0.0 nationalbank.shop
 0.0.0.0 nationalbanking24.shop
+0.0.0.0 natthame.com
 0.0.0.0 nek0samurai.github.io
 0.0.0.0 neobank.pcs-order.me
 0.0.0.0 netflx-ua.com
@@ -1683,6 +1693,7 @@
 0.0.0.0 nextuaviplata24.pro
 0.0.0.0 nexxt.pw
 0.0.0.0 ng.1x001.com
+0.0.0.0 nicepage.io
 0.0.0.0 niko-yan.com.ua
 0.0.0.0 nivetra.com.ua
 0.0.0.0 noreply-olxpay.com
@@ -1730,6 +1741,7 @@
 0.0.0.0 novo-billing.info
 0.0.0.0 novodesign.com.ua
 0.0.0.0 novok.com.ua
+0.0.0.0 npdosttaavockkaa.space
 0.0.0.0 npu-gov-ua.media
 0.0.0.0 ns1.fiveplus.org.ua
 0.0.0.0 ns2.fiveplus.org.ua
@@ -2117,6 +2129,7 @@
 0.0.0.0 pillapt.com
 0.0.0.0 pin-up.casino
 0.0.0.0 pkeedo.co.ua
+0.0.0.0 planet-ua.com
 0.0.0.0 plategi-city.com.ua
 0.0.0.0 platizh.com
 0.0.0.0 platizhmob.com
@@ -2411,6 +2424,7 @@
 0.0.0.0 regist9836.at.ua
 0.0.0.0 registrdot.pro
 0.0.0.0 regsotsvyplat.online
+0.0.0.0 relffelsen-ua.com
 0.0.0.0 reliefukraine.today
 0.0.0.0 remgroup.in.ua
 0.0.0.0 resgate-desco-online.co.ua
@@ -2494,6 +2508,7 @@
 0.0.0.0 sent-rfi.online
 0.0.0.0 sentsbrf.online
 0.0.0.0 sergienko.com.ua
+0.0.0.0 serliconcaromu.tk
 0.0.0.0 servicepge.at.ua
 0.0.0.0 set-system.com
 0.0.0.0 setup.kiwi.net.ua
@@ -2516,6 +2531,7 @@
 0.0.0.0 shoping-ua.site
 0.0.0.0 shopingukraine.store
 0.0.0.0 shopinukrainenow.fun
+0.0.0.0 shopistorev.xyz
 0.0.0.0 shopmarketukr.store
 0.0.0.0 shopping-in-ukraine.online
 0.0.0.0 shopping-online.fun
@@ -2627,6 +2643,8 @@
 0.0.0.0 suphit.club
 0.0.0.0 suppay.biz
 0.0.0.0 support-account-ukr.net
+0.0.0.0 support-ukr.com
+0.0.0.0 support-ukr.net
 0.0.0.0 support10fb.at.ua
 0.0.0.0 support1718.at.ua
 0.0.0.0 support72.at.ua
@@ -2744,6 +2762,7 @@
 0.0.0.0 travel-ua.site
 0.0.0.0 treestash.store
 0.0.0.0 trend-ua.space
+0.0.0.0 tripa-dvisor.org
 0.0.0.0 tris-gos.top
 0.0.0.0 trpayuan.site
 0.0.0.0 true-portall3.xyz
@@ -2760,6 +2779,7 @@
 0.0.0.0 u-ua.us
 0.0.0.0 ua-1x_bet.com
 0.0.0.0 ua-applestore.shop
+0.0.0.0 ua-bank.co
 0.0.0.0 ua-bank.org
 0.0.0.0 ua-bankgov.com
 0.0.0.0 ua-bankgov.info
@@ -2781,6 +2801,7 @@
 0.0.0.0 ua-lotosuper.top
 0.0.0.0 ua-minagro.com
 0.0.0.0 ua-mvs.site
+0.0.0.0 ua-nbu.cloud
 0.0.0.0 ua-onlinepay.shop
 0.0.0.0 ua-oschaad.cloud
 0.0.0.0 ua-oschaad.online
@@ -2847,6 +2868,7 @@
 0.0.0.0 uakonkursevent.space
 0.0.0.0 uaminagro.com
 0.0.0.0 uaminagro.org
+0.0.0.0 uamovieonlinejobs.com
 0.0.0.0 uanowhelp.com
 0.0.0.0 uapay.escrowbox.website
 0.0.0.0 uapay.pro
@@ -3077,6 +3099,7 @@
 0.0.0.0 ukrnet24.com
 0.0.0.0 ukroboronprom.info
 0.0.0.0 ukroboronprom.ml
+0.0.0.0 ukroboronprom.software
 0.0.0.0 ukroboronprom.space
 0.0.0.0 ukronline.site
 0.0.0.0 ukronlineshop.fun
@@ -3207,6 +3230,8 @@
 0.0.0.0 vikas.com.ua
 0.0.0.0 vinted-pl-gj32d.uassq.xyz
 0.0.0.0 vip-animal.com
+0.0.0.0 vip-booking.net
+0.0.0.0 vip-booking.shop
 0.0.0.0 vip-casino-pm.com.ua
 0.0.0.0 vip-casino.org
 0.0.0.0 vip-ua.store
@@ -3324,6 +3349,7 @@
 0.0.0.0 web.eebankosdoxla.site
 0.0.0.0 web.fioporsudogtberp.cf
 0.0.0.0 web.life-line.in.ua
+0.0.0.0 web.serliconcaromu.tk
 0.0.0.0 web.seyrosnpaynhe.website
 0.0.0.0 web.weiworlmartoreave.tk
 0.0.0.0 webinfom.ru
@@ -3578,6 +3604,7 @@
 0.0.0.0 www.multplex.fun
 0.0.0.0 www.mycosyhome.kh.ua
 0.0.0.0 www.mytechno.com.ua
+0.0.0.0 www.natthame.com
 0.0.0.0 www.nevrologia.com.ua
 0.0.0.0 www.newenergy.com.ua
 0.0.0.0 www.newfinance.com.ua
