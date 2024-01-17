@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 3813
+# Total number of filters: 3833
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -371,6 +371,7 @@
 0.0.0.0 brainintelligencetraining.com
 0.0.0.0 bright-wedding.com.ua
 0.0.0.0 brokcomp.com.ua
+0.0.0.0 brovistave.org
 0.0.0.0 brunner.kgu.edu.ua
 0.0.0.0 bs-market.store
 0.0.0.0 btcinvesta.com
@@ -488,6 +489,7 @@
 0.0.0.0 contribution.thunderingappearance.xyz
 0.0.0.0 cool-survey.top
 0.0.0.0 copywriteagency.org
+0.0.0.0 cosmolotukraine.co.uk
 0.0.0.0 cosmoslot.site
 0.0.0.0 crea-rewt.at.ua
 0.0.0.0 crediacgricole.no-pay.me
@@ -547,6 +549,7 @@
 0.0.0.0 designp.org
 0.0.0.0 detskiykvartal.uk
 0.0.0.0 device-by-apple-ua.store
+0.0.0.0 devtome.top
 0.0.0.0 diaa-ukraine.site
 0.0.0.0 diaa-ukraine.space
 0.0.0.0 diaaukraine.site
@@ -565,6 +568,7 @@
 0.0.0.0 diving-turizm.com
 0.0.0.0 diya-edopomoga.online
 0.0.0.0 diyanow.balilikonstruksion.com
+0.0.0.0 diyanow.myhelp.charity
 0.0.0.0 diyas.io
 0.0.0.0 dl-gos.top
 0.0.0.0 dmsu-ukr.pp.ua
@@ -727,6 +731,7 @@
 0.0.0.0 dostavka-ua.space
 0.0.0.0 dostavka-ukr.fun
 0.0.0.0 dostavka-ukr.space
+0.0.0.0 dostawo4ka-ua.life
 0.0.0.0 dragongold88.com
 0.0.0.0 dragonsgold888.com
 0.0.0.0 dram-satyr.fun
@@ -859,6 +864,7 @@
 0.0.0.0 fav-pay-ua.com
 0.0.0.0 favbet.casino
 0.0.0.0 favbet.com
+0.0.0.0 favbetukraine.co.uk
 0.0.0.0 favorit.com.ua
 0.0.0.0 favorit1.com.ua
 0.0.0.0 favoritauto.com.ua
@@ -1632,6 +1638,7 @@
 0.0.0.0 myfrlathome.net
 0.0.0.0 mygovua.info
 0.0.0.0 mygovua.online
+0.0.0.0 myhelp.charity
 0.0.0.0 mykyivstar.com
 0.0.0.0 mytax-compensation.xyz
 0.0.0.0 myuagoveinfo-taxation.info
@@ -1807,6 +1814,7 @@
 0.0.0.0 olx-ua.recive-money.icu
 0.0.0.0 olx-ua.recivemoney.icu
 0.0.0.0 olx-ua.safe-deals.icu
+0.0.0.0 olx-ukrnp.co.uk
 0.0.0.0 olx.blue
 0.0.0.0 olx.id394817.site
 0.0.0.0 olx.moe
@@ -1859,6 +1867,7 @@
 0.0.0.0 online-bezpeka24.su
 0.0.0.0 online-oschadbank.dis6.site
 0.0.0.0 online-pays.tech
+0.0.0.0 online-prizeme.com
 0.0.0.0 online-pumb24.su
 0.0.0.0 online-raiffeic24.ava6.site
 0.0.0.0 online-raiffeisen.info
@@ -1974,6 +1983,7 @@
 0.0.0.0 oschadsecure.com
 0.0.0.0 oschadsecure.pw
 0.0.0.0 oschadviplata66.shop
+0.0.0.0 oshad-24-ua.online
 0.0.0.0 oshad-24.com
 0.0.0.0 oshad-auth.site
 0.0.0.0 oshad-bank.online
@@ -2188,6 +2198,7 @@
 0.0.0.0 privat-bank-ua.com
 0.0.0.0 privat-blago24.3diy.site
 0.0.0.0 privat-i.org
+0.0.0.0 privat-inv.org
 0.0.0.0 privat-trade.com
 0.0.0.0 privat.24unicef.org
 0.0.0.0 privat.bake-pays.me
@@ -2439,6 +2450,7 @@
 0.0.0.0 riobet.com
 0.0.0.0 rivafamily.com.ua
 0.0.0.0 rivershop.com.ua
+0.0.0.0 rmssrv.ru
 0.0.0.0 rockbit.space
 0.0.0.0 roogle.com.ua
 0.0.0.0 rooms.kiev.ua
@@ -2588,6 +2600,7 @@
 0.0.0.0 specheart.com
 0.0.0.0 specodyag.kiev.ua
 0.0.0.0 speedmillions.info
+0.0.0.0 spend-ua.top
 0.0.0.0 spinbetter.com
 0.0.0.0 spion-market.com.ua
 0.0.0.0 sport.starvex.com.ua
@@ -2639,6 +2652,7 @@
 0.0.0.0 superboss1.com
 0.0.0.0 superboss777.com
 0.0.0.0 superboss8.com
+0.0.0.0 supergra-ukr.website
 0.0.0.0 superizba.com.ua
 0.0.0.0 suphit.club
 0.0.0.0 suppay.biz
@@ -2894,6 +2908,7 @@
 0.0.0.0 uk-konkurs.site
 0.0.0.0 uk-ukr.net
 0.0.0.0 ukawar.art.blog
+0.0.0.0 ukpost-ua.cc
 0.0.0.0 ukr-armour.store
 0.0.0.0 ukr-baza.shop
 0.0.0.0 ukr-best.shop
@@ -2917,6 +2932,7 @@
 0.0.0.0 ukr-help.online
 0.0.0.0 ukr-info.charity
 0.0.0.0 ukr-konkurs.site
+0.0.0.0 ukr-links.kiev.ua
 0.0.0.0 ukr-magaz.shop
 0.0.0.0 ukr-mail.com
 0.0.0.0 ukr-market24.online
@@ -3322,6 +3338,7 @@
 0.0.0.0 volna.casino
 0.0.0.0 voogle.com.ua
 0.0.0.0 voram-net.blogspot.com
+0.0.0.0 vremted.qromso.workers.dev
 0.0.0.0 vspp.org.ua
 0.0.0.0 vtav.com.ua
 0.0.0.0 vulk7.bet
@@ -3355,6 +3372,7 @@
 0.0.0.0 webinfom.ru
 0.0.0.0 weekpaidlife.top
 0.0.0.0 wegroup.com.ua
+0.0.0.0 werewkaskorobydet.business
 0.0.0.0 windon.pp.ua
 0.0.0.0 winpayday.shop
 0.0.0.0 winukr-pay.charity
@@ -3783,7 +3801,9 @@
 0.0.0.0 x-ukr.net
 0.0.0.0 x.thoroughintrinsically.cn
 0.0.0.0 x7-mikepike.buzz
+0.0.0.0 xe-ukr.net
 0.0.0.0 xgttc128.com
+0.0.0.0 xh-ukr.net
 0.0.0.0 xiaomi-store.com.ua
 0.0.0.0 xingjxcgbdylbj.store
 0.0.0.0 xn--80azelb4d.in.ua
