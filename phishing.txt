@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 3833
+# Total number of filters: 3835
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -883,6 +883,7 @@
 0.0.0.0 finance-active.com.ua
 0.0.0.0 finance-dopomoga.site
 0.0.0.0 finance-helpya.com
+0.0.0.0 finbet.org.ua
 0.0.0.0 findopomoga.sbs
 0.0.0.0 finevid.pp.ua
 0.0.0.0 finua.online
@@ -2761,6 +2762,7 @@
 0.0.0.0 tovar-ua.store
 0.0.0.0 tovar-ukraine.online
 0.0.0.0 tovari-dlya-ukrayinciv.shop
+0.0.0.0 tovaronlineollx.za.com
 0.0.0.0 tovarukraine.site
 0.0.0.0 toys-ukr.xyz
 0.0.0.0 trade.hermesfx.io
