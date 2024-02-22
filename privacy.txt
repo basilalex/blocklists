@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 858
+# Total number of filters: 881
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -52,6 +52,9 @@
 0.0.0.0 adcore.ua
 0.0.0.0 add.in.ua
 0.0.0.0 ade.googlesyndication.com
+0.0.0.0 adfox.yandex.ru
+0.0.0.0 adfstat.yandex.ru
+0.0.0.0 adm.hotjar.com
 0.0.0.0 admin.byte.in.ua
 0.0.0.0 admin.uamobile.net
 0.0.0.0 admixer.ua
@@ -101,6 +104,7 @@
 0.0.0.0 advert.dtkt.ua
 0.0.0.0 advertarium.com.ua
 0.0.0.0 advertising.twitter.com
+0.0.0.0 advertising.yandex.ru
 0.0.0.0 advice.in.ua
 0.0.0.0 aff.salesdoubler.com.ua
 0.0.0.0 affiliates.rozetka.com.ua
@@ -143,6 +147,7 @@
 0.0.0.0 api.c8.net.ua
 0.0.0.0 api.campaigns.notino.com
 0.0.0.0 api.instabug.com
+0.0.0.0 api.luckyorange.com
 0.0.0.0 api.nsju.org.ua
 0.0.0.0 api.rewards.brave.com
 0.0.0.0 api.visicom.ua
@@ -153,6 +158,7 @@
 0.0.0.0 app.getsentry.com
 0.0.0.0 applytics.nordvpn.com
 0.0.0.0 appmetrica.yandex.com
+0.0.0.0 appmetrica.yandex.ru
 0.0.0.0 apprep.smartscreen.microsoft.com
 0.0.0.0 apps.c8.net.ua
 0.0.0.0 arethegrav.com.ua
@@ -194,7 +200,9 @@
 0.0.0.0 bmcdn3.com
 0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 books-analytics-events.news.apple-dns.net
+0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 btloader.com
+0.0.0.0 business-api.tiktok.com
 0.0.0.0 business.samsungusa.com
 0.0.0.0 c.bing.com
 0.0.0.0 c.hit.ua
@@ -211,6 +219,7 @@
 0.0.0.0 cc.givemelink.cc
 0.0.0.0 ccs2.ua.edu
 0.0.0.0 cdn-scripts.signifyd.com
+0.0.0.0 cdn-test.mouseflow.com
 0.0.0.0 cdn.ad.xiaomi.com
 0.0.0.0 cdn.ampproject.org
 0.0.0.0 cdn.bmcdn3.com
@@ -232,6 +241,7 @@
 0.0.0.0 cgtgwa.best.lt.ua
 0.0.0.0 chernivtsi.dynamo.ua
 0.0.0.0 cihost.uberflip.com
+0.0.0.0 claritybt.freshmarketer.com
 0.0.0.0 claspo.io
 0.0.0.0 clck.yandex.ua
 0.0.0.0 click.oneplus.com
@@ -306,6 +316,7 @@
 0.0.0.0 esputnik.com.ua
 0.0.0.0 eth.pp.ua
 0.0.0.0 etl.tindersparks.com
+0.0.0.0 events.hotjar.io
 0.0.0.0 events.redditmedia.com
 0.0.0.0 events.statsigapi.net
 0.0.0.0 exchange.informer.ua
@@ -330,6 +341,7 @@
 0.0.0.0 forecast.salesdoubler.com.ua
 0.0.0.0 friends.multiplex.ua
 0.0.0.0 frog-record.webnode.com.ua
+0.0.0.0 fwtracks.freshmarketer.com
 0.0.0.0 g.doubleclick.net
 0.0.0.0 g.live.com
 0.0.0.0 g.whatsapp.net
@@ -369,6 +381,7 @@
 0.0.0.0 graph.facebook.net
 0.0.0.0 graph.instagram.com
 0.0.0.0 gremlimes9.in.ua
+0.0.0.0 grs.hicloud.com
 0.0.0.0 gruene.matomo.cloud
 0.0.0.0 h.holder.com.ua
 0.0.0.0 hardware.metrics.mozilla.com
@@ -390,6 +403,7 @@
 0.0.0.0 ichnaea.netflix.com
 0.0.0.0 id.google.com.ua
 0.0.0.0 idc.com.ua
+0.0.0.0 identify.hotjar.com
 0.0.0.0 ili.pp.ua
 0.0.0.0 images.dmca.com
 0.0.0.0 imap.salesdoubler.com.ua
@@ -434,7 +448,9 @@
 0.0.0.0 livetileedge.dsx.mp.microsoft.com
 0.0.0.0 log.pinterest.com
 0.0.0.0 log.tiktokv.com
+0.0.0.0 logbak.hicloud.com
 0.0.0.0 login.c8.net.ua
+0.0.0.0 logservice.hicloud.com
 0.0.0.0 loox.io
 0.0.0.0 lpzxed.uai.com.br
 0.0.0.0 lux-bn.com.ua
@@ -472,9 +488,12 @@
 0.0.0.0 metrica.yandex.com.ua
 0.0.0.0 metrica.yandex.ua
 0.0.0.0 metrics.apple.com
+0.0.0.0 metrics.data.hicloud.com
 0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics.mozilla.com
+0.0.0.0 metrics2.data.hicloud.com
 0.0.0.0 metrika.yandex.com.ua
+0.0.0.0 metrika.yandex.ru
 0.0.0.0 metrika.yandex.ua
 0.0.0.0 metronews.com.ua
 0.0.0.0 mgid.com
@@ -528,6 +547,7 @@
 0.0.0.0 obkom.net.ua
 0.0.0.0 obmen.starstudio.org.ua
 0.0.0.0 oca.telemetry.microsoft.com
+0.0.0.0 offerwall.yandex.net
 0.0.0.0 officeclient.microsoft.com
 0.0.0.0 oldgames.zp.ua
 0.0.0.0 olongercrav.com.ua
@@ -623,6 +643,7 @@
 0.0.0.0 r6.c8.net.ua
 0.0.0.0 rang.com.ua
 0.0.0.0 rdr.salesdoubler.com.ua
+0.0.0.0 realtime.luckyorange.com
 0.0.0.0 realtime.www.linkedin.com
 0.0.0.0 rebid-server.rubiconproject.com
 0.0.0.0 rec2000.at.ua
@@ -734,6 +755,7 @@
 0.0.0.0 stocks-analytics-events.news.apple-dns.net
 0.0.0.0 storoukr.net
 0.0.0.0 supportmetrics.apple.com
+0.0.0.0 surveys.hotjar.com
 0.0.0.0 svc.kartinka.com.ua
 0.0.0.0 sync.search.spotxchange.com
 0.0.0.0 syndication.twitter.com
@@ -753,6 +775,7 @@
 0.0.0.0 terms.salesdoubler.com.ua
 0.0.0.0 tile-service.weather.microsoft.com
 0.0.0.0 tk.airfrance.ua
+0.0.0.0 tools.mouseflow.com
 0.0.0.0 top-js-metrics.top.my.ua
 0.0.0.0 top.zp.ua
 0.0.0.0 topoffers.salesdoubler.com.ua
