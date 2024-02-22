@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 3835
+# Total number of filters: 3842
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -465,6 +465,7 @@
 0.0.0.0 clubkassa-24.shop
 0.0.0.0 clubkassa24.top
 0.0.0.0 clubprices.shop
+0.0.0.0 clxb.ee
 0.0.0.0 cnopm.ml
 0.0.0.0 co-opros.top
 0.0.0.0 coachschool.com.ua
@@ -491,6 +492,7 @@
 0.0.0.0 copywriteagency.org
 0.0.0.0 cosmolotukraine.co.uk
 0.0.0.0 cosmoslot.site
+0.0.0.0 crazy-hero.com
 0.0.0.0 crea-rewt.at.ua
 0.0.0.0 crediacgricole.no-pay.me
 0.0.0.0 crediacgricole.pcs-order.me
@@ -1409,6 +1411,7 @@
 0.0.0.0 litebox-ukr.com
 0.0.0.0 live-konkurs.site
 0.0.0.0 livespace.com.ua
+0.0.0.0 lkonlinepersonal.za.com
 0.0.0.0 loanalfa.tech
 0.0.0.0 loansecure.tech
 0.0.0.0 lobvsteklpom.pro
@@ -1819,6 +1822,7 @@
 0.0.0.0 olx.blue
 0.0.0.0 olx.id394817.site
 0.0.0.0 olx.moe
+0.0.0.0 olx.oplatline.online
 0.0.0.0 olx.safepayment.site
 0.0.0.0 olx.ua-dellvery.site
 0.0.0.0 olx.ua-dostawa.me
@@ -1918,6 +1922,7 @@
 0.0.0.0 openkredovik.top
 0.0.0.0 opi-gos.top
 0.0.0.0 oplataunicef.com
+0.0.0.0 oplatline.online
 0.0.0.0 oprosgrand2019.space
 0.0.0.0 optimal-payments.com
 0.0.0.0 orange-moto.com.ua
@@ -2676,6 +2681,7 @@
 0.0.0.0 swift-pay.com.ua
 0.0.0.0 swift-ua.store
 0.0.0.0 swiftperekaz.pro
+0.0.0.0 swk1001.com
 0.0.0.0 sxblogtradellcusa.icu
 0.0.0.0 system2018.at.ua
 0.0.0.0 systempay.kiev.ua
@@ -3808,6 +3814,7 @@
 0.0.0.0 xh-ukr.net
 0.0.0.0 xiaomi-store.com.ua
 0.0.0.0 xingjxcgbdylbj.store
+0.0.0.0 xiongmao002.com
 0.0.0.0 xn--80azelb4d.in.ua
 0.0.0.0 xtradercorpvlog2020.icu
 0.0.0.0 xwallet.website
