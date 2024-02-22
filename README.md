@@ -42,10 +42,10 @@ Open <a href="https://d3ward.github.io/toolz/adblock.html" target="_blank" rel="
 ## Credits
 
 Thank you to the following list maintainers of the sources that were partially used:
-<a href="https://github.com/blocklistproject/Lists" target="_blank">blocklistproject</a>,
-<a href="https://www.ema.com.ua/citizens/blacklist" target="_blank">EMA</a>,
-<a href="https://github.com/StevenBlack/hosts" target="_blank">StevenBlack</a>,
-<a href="https://phishing.army/download/phishing_army_blocklist.txt" target="_blank">phishing.army</a>.
+<a href="https://github.com/blocklistproject/Lists" target="_blank" rel="noopener noreferrer">blocklistproject</a>,
+<a href="https://www.ema.com.ua/citizens/blacklist" target="_blank" rel="noopener noreferrer">EMA</a>,
+<a href="https://github.com/StevenBlack/hosts" target="_blank" rel="noopener noreferrer">StevenBlack</a>,
+<a href="https://phishing.army/download/phishing_army_blocklist.txt" target="_blank" rel="noopener noreferrer">phishing.army</a>.
 
 ## License:
 
