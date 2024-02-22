@@ -35,6 +35,10 @@ All urls are listed in the host files as follows:
 2. Add the URL to your pfBlockerNG's block lists (**Login** > **Firewall** > **pfBlockerNG** > **DNSBL** > **DNSBL Groups** > **Click 2 times on the group** > **Click "Add"** > **Paste list URL in "Source" field** > **Write description in the "Header/Label" field** > **Select ON in the "State" selector** > **Click "Save DNSBL Settings"** )
 3. Update pfBlockerNG (**pfBlockerNG** > **Click "Update"** > **Select "Reload" in the "Select 'Force' option" field** > **Click "Run"** )
 
+## Testing Ad Blocking
+
+Open <a href="https://d3ward.github.io/toolz/adblock.html" target="_blank" rel="noopener noreferrer">Test Ad Block</a>.
+
 ## Credits
 
 Thank you to the following list maintainers of the sources that were partially used:
