@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 3842
+# Total number of filters: 3854
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -154,6 +154,7 @@
 0.0.0.0 aidgetukr-gov.site
 0.0.0.0 aidogov.site
 0.0.0.0 aif-dopomoga.com
+0.0.0.0 aio-product.net
 0.0.0.0 air-pro-ua.store
 0.0.0.0 airclimat.com.ua
 0.0.0.0 airties.net.ua
@@ -417,6 +418,7 @@
 0.0.0.0 cashbox-ua.com
 0.0.0.0 cashpass.ru
 0.0.0.0 cashpayforukrainepeople.business
+0.0.0.0 cashsupportline.za.com
 0.0.0.0 casino-1xbet.com
 0.0.0.0 casino-elslots.net
 0.0.0.0 casino-williamhill.cc
@@ -522,6 +524,7 @@
 0.0.0.0 dear-gos.top
 0.0.0.0 delivery-pay.website
 0.0.0.0 delivvery-uaa.shop
+0.0.0.0 delliveryy.olxtne.workers.dev
 0.0.0.0 delvlo-cliid-325.descohojeresgateonline.co.ua
 0.0.0.0 demo1.joie.com.ua
 0.0.0.0 dentalgid.com.ua
@@ -727,6 +730,7 @@
 0.0.0.0 dopomoha-ua.website
 0.0.0.0 dopomohaukraine.world
 0.0.0.0 dopoviplataua.xyz
+0.0.0.0 doppolch.site
 0.0.0.0 doromogaresort.online
 0.0.0.0 dostavaollp.shop
 0.0.0.0 dostavka-ua.fun
@@ -1087,6 +1091,7 @@
 0.0.0.0 groxs.yachts
 0.0.0.0 gt770.com
 0.0.0.0 gtradex.net
+0.0.0.0 guarrano-guild.workers.dev
 0.0.0.0 gulf-can.com
 0.0.0.0 h-shoes.com.ua
 0.0.0.0 handmadebeads.online
@@ -1142,6 +1147,7 @@
 0.0.0.0 helpukrainemoneydopomoga.com
 0.0.0.0 helpukrainian.site
 0.0.0.0 helpukrpay.com
+0.0.0.0 henly.workers.dev
 0.0.0.0 hermesfx.io
 0.0.0.0 hico.com.ua
 0.0.0.0 hipx.pro
@@ -1659,6 +1665,7 @@
 0.0.0.0 nationalbanking24.shop
 0.0.0.0 natthame.com
 0.0.0.0 nek0samurai.github.io
+0.0.0.0 nekly.henly.workers.dev
 0.0.0.0 neobank.pcs-order.me
 0.0.0.0 netflx-ua.com
 0.0.0.0 nettgola.site
@@ -1848,6 +1855,7 @@
 0.0.0.0 olxpoluchaika.com
 0.0.0.0 olxposhta.com
 0.0.0.0 olxsite.com
+0.0.0.0 olxtne.workers.dev
 0.0.0.0 olxtpay.com
 0.0.0.0 olxtv.my.id
 0.0.0.0 olxua.cc
@@ -2192,6 +2200,7 @@
 0.0.0.0 potolok-ok.net.ua
 0.0.0.0 pr-invest.org
 0.0.0.0 pravpost.org.ua
+0.0.0.0 prembo.quiled.workers.dev
 0.0.0.0 premium-pay.com.ua
 0.0.0.0 prestige-pay.info
 0.0.0.0 primanka.com.ua
@@ -2315,6 +2324,7 @@
 0.0.0.0 qs-dopomoga.me
 0.0.0.0 quality-ukrainegoods.store
 0.0.0.0 quickpaymentss.expert
+0.0.0.0 quiled.workers.dev
 0.0.0.0 quiz-ua.site
 0.0.0.0 radixgroup.ru
 0.0.0.0 raif.24get.site
@@ -2450,6 +2460,7 @@
 0.0.0.0 resgatepontoslv.co.ua
 0.0.0.0 retivabet.com
 0.0.0.0 rewison.ga
+0.0.0.0 rezina-diski.com.ua
 0.0.0.0 rfterua.space
 0.0.0.0 rikter-lor.ru
 0.0.0.0 ringo-bet.net
@@ -3251,6 +3262,7 @@
 0.0.0.0 vheck-viplatvidoshad.space
 0.0.0.0 vhod.zzz.com.ua
 0.0.0.0 vhoru.com.ua
+0.0.0.0 vidprawunya.guarrano-guild.workers.dev
 0.0.0.0 vikas.com.ua
 0.0.0.0 vinted-pl-gj32d.uassq.xyz
 0.0.0.0 vip-animal.com
