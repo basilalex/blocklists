@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 3854
+# Total number of filters: 3859
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -379,6 +379,7 @@
 0.0.0.0 buddy1.bet
 0.0.0.0 bui-gos.top
 0.0.0.0 bul-opros.top
+0.0.0.0 burlgo.com
 0.0.0.0 buro.sumy.ua
 0.0.0.0 busfor-online.site
 0.0.0.0 busfor-ua.payments-cars.com
@@ -918,6 +919,7 @@
 0.0.0.0 for-gos.top
 0.0.0.0 forbestua.com
 0.0.0.0 force-pay.info
+0.0.0.0 foresttoy.homes
 0.0.0.0 forhome.site
 0.0.0.0 fortunateeuphoria.com
 0.0.0.0 found-gos.top
@@ -1189,6 +1191,7 @@
 0.0.0.0 icanshop.pp.ua
 0.0.0.0 idis.com.ua
 0.0.0.0 idl-updatefb.at.ua
+0.0.0.0 idtnf.site
 0.0.0.0 igoog.ru
 0.0.0.0 ikea-market.com.ua
 0.0.0.0 ikea.net.ua
@@ -3262,6 +3265,7 @@
 0.0.0.0 vheck-viplatvidoshad.space
 0.0.0.0 vhod.zzz.com.ua
 0.0.0.0 vhoru.com.ua
+0.0.0.0 vidprawinua.workers.dev
 0.0.0.0 vidprawunya.guarrano-guild.workers.dev
 0.0.0.0 vikas.com.ua
 0.0.0.0 vinted-pl-gj32d.uassq.xyz
@@ -3784,6 +3788,7 @@
 0.0.0.0 www.velesbukovyna.com.ua
 0.0.0.0 www.vhod.zzz.com.ua
 0.0.0.0 www.viber-darit-prizy.xyz
+0.0.0.0 www.vidprawinua.workers.dev
 0.0.0.0 www.vikas.com.ua
 0.0.0.0 www.vitebox-ukr.info
 0.0.0.0 www.vk-old.zzz.com.ua
