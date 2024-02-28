@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 3859
+# Total number of filters: 3862
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -891,6 +891,7 @@
 0.0.0.0 finance-dopomoga.site
 0.0.0.0 finance-helpya.com
 0.0.0.0 finbet.org.ua
+0.0.0.0 finbet.top
 0.0.0.0 findopomoga.sbs
 0.0.0.0 finevid.pp.ua
 0.0.0.0 finua.online
@@ -1834,6 +1835,7 @@
 0.0.0.0 olx.moe
 0.0.0.0 olx.oplatline.online
 0.0.0.0 olx.safepayment.site
+0.0.0.0 olx.suppline24.online
 0.0.0.0 olx.ua-dellvery.site
 0.0.0.0 olx.ua-dostawa.me
 0.0.0.0 olx.ua-pays.com
@@ -2676,6 +2678,7 @@
 0.0.0.0 superizba.com.ua
 0.0.0.0 suphit.club
 0.0.0.0 suppay.biz
+0.0.0.0 suppline24.online
 0.0.0.0 support-account-ukr.net
 0.0.0.0 support-ukr.com
 0.0.0.0 support-ukr.net
