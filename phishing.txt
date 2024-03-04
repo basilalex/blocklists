@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 3862
+# Total number of filters: 3870
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -192,6 +192,7 @@
 0.0.0.0 angelico.com.ua
 0.0.0.0 anisey.com.ua
 0.0.0.0 antek.pp.ua
+0.0.0.0 aobsdfo.space
 0.0.0.0 ap.diuaaaaxxx.sbs
 0.0.0.0 apcure.at.ua
 0.0.0.0 api-donate-ukrainehelp.org
@@ -594,6 +595,7 @@
 0.0.0.0 dopomoga-dlia-ukraintsiv.life
 0.0.0.0 dopomoga-epay.site
 0.0.0.0 dopomoga-oon.com
+0.0.0.0 dopomoga-social1.com
 0.0.0.0 dopomoga-ua-online-web.site
 0.0.0.0 dopomoga-ua.click
 0.0.0.0 dopomoga-ua.info
@@ -752,6 +754,7 @@
 0.0.0.0 drone-ua.space
 0.0.0.0 dsshsh.shop
 0.0.0.0 dufafaststinen.gq
+0.0.0.0 dunthemonster9121.workers.dev
 0.0.0.0 dxf.in.ua
 0.0.0.0 e-ctr.com.ua
 0.0.0.0 e-dopomoga-perekazy24.space
@@ -1200,6 +1203,7 @@
 0.0.0.0 ilyukr.site
 0.0.0.0 imagetyoma.com.ua
 0.0.0.0 imperia-quest.com.ua
+0.0.0.0 inbet.top
 0.0.0.0 ineed24.shop
 0.0.0.0 inevent.com.ua
 0.0.0.0 infcjal.cn
@@ -1466,6 +1470,7 @@
 0.0.0.0 luckysend24.com
 0.0.0.0 luckystar-ua.com
 0.0.0.0 lungold.com.ua
+0.0.0.0 luqos.workers.dev
 0.0.0.0 luxtraid.herokuapp.com
 0.0.0.0 luxury-store-ua.space
 0.0.0.0 lviv.in.net
@@ -2172,6 +2177,7 @@
 0.0.0.0 pointloto4.com
 0.0.0.0 poker-bet.com
 0.0.0.0 pokermatch.com
+0.0.0.0 poldenkirbusiness.dunthemonster9121.workers.dev
 0.0.0.0 polimat.com.ua
 0.0.0.0 poloski.com.ua
 0.0.0.0 polsha24dopomogaua.shop
@@ -2800,6 +2806,7 @@
 0.0.0.0 transform-mebel.com.ua
 0.0.0.0 travel-ua.site
 0.0.0.0 treestash.store
+0.0.0.0 trejo.luqos.workers.dev
 0.0.0.0 trend-ua.space
 0.0.0.0 tripa-dvisor.org
 0.0.0.0 tris-gos.top
@@ -3405,6 +3412,7 @@
 0.0.0.0 winukr-pay.charity
 0.0.0.0 wirellc.com.ua
 0.0.0.0 wise-pay.info
+0.0.0.0 wkl2126.com
 0.0.0.0 wm24.com.ua
 0.0.0.0 wmsra.com
 0.0.0.0 wmtua666.top
