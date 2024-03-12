@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 3870
+# Total number of filters: 3889
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -224,6 +224,7 @@
 0.0.0.0 asdfhtghbfeeddsvfsdfghitdsdghjk.kr.ua
 0.0.0.0 ask-opros.top
 0.0.0.0 aspect.org.ua
+0.0.0.0 atb-bonus.com
 0.0.0.0 atb-market.space
 0.0.0.0 atbmarket.life
 0.0.0.0 atendimentoresgatebr.co.ua
@@ -416,6 +417,7 @@
 0.0.0.0 cartstandard.info
 0.0.0.0 cash-box.com.ua
 0.0.0.0 cash-connect.com.ua
+0.0.0.0 cashaidnetwork.za.com
 0.0.0.0 cashalot.bet
 0.0.0.0 cashbox-ua.com
 0.0.0.0 cashpass.ru
@@ -513,6 +515,7 @@
 0.0.0.0 csd-lab.com
 0.0.0.0 csd.c787888.com
 0.0.0.0 cybe-gos.top
+0.0.0.0 da-tesi.com
 0.0.0.0 daily-news.com.ua
 0.0.0.0 damilk.com.ua
 0.0.0.0 data-mails.com
@@ -524,6 +527,7 @@
 0.0.0.0 de-ukr.net
 0.0.0.0 deal-loads.site
 0.0.0.0 dear-gos.top
+0.0.0.0 defmyolx.workers.dev
 0.0.0.0 delivery-pay.website
 0.0.0.0 delivvery-uaa.shop
 0.0.0.0 delliveryy.olxtne.workers.dev
@@ -580,6 +584,8 @@
 0.0.0.0 dl-gos.top
 0.0.0.0 dmsu-ukr.pp.ua
 0.0.0.0 dneprodent.com.ua
+0.0.0.0 dnr-service.ru
+0.0.0.0 do-orolx.workers.dev
 0.0.0.0 doge-earn.com
 0.0.0.0 dom-pchely.com.ua
 0.0.0.0 domopoga-ua.nopersonexty.online
@@ -735,6 +741,7 @@
 0.0.0.0 dopoviplataua.xyz
 0.0.0.0 doppolch.site
 0.0.0.0 doromogaresort.online
+0.0.0.0 dostav.do-orolx.workers.dev
 0.0.0.0 dostavaollp.shop
 0.0.0.0 dostavka-ua.fun
 0.0.0.0 dostavka-ua.space
@@ -1020,6 +1027,7 @@
 0.0.0.0 good-opros.top
 0.0.0.0 good-ua.store
 0.0.0.0 good.ua-tovary.info
+0.0.0.0 goods.transfer-e08.workers.dev
 0.0.0.0 goofle.com.ua
 0.0.0.0 goog1e.com.ua
 0.0.0.0 googe.com.ua
@@ -1141,6 +1149,7 @@
 0.0.0.0 helpgroshiua.foundation
 0.0.0.0 helpgroshiua.pro
 0.0.0.0 helping-ukr.site
+0.0.0.0 helpmoneyua.za.com
 0.0.0.0 helposchad24.shop
 0.0.0.0 helpspeoples.nicepage.io
 0.0.0.0 helpukr.pro
@@ -1465,6 +1474,7 @@
 0.0.0.0 lotto247.com
 0.0.0.0 lottogo.com
 0.0.0.0 lottoland.com
+0.0.0.0 louvre.mom
 0.0.0.0 loyal-pay.com
 0.0.0.0 luckyfront.ru
 0.0.0.0 luckysend24.com
@@ -1623,6 +1633,7 @@
 0.0.0.0 mrking.fun
 0.0.0.0 mrsking.site
 0.0.0.0 mrt-group.com.ua
+0.0.0.0 msneu.com
 0.0.0.0 msonline-ukroboronprom.com
 0.0.0.0 msyie0-c2a7.cn
 0.0.0.0 muli-gan.me
@@ -1810,6 +1821,7 @@
 0.0.0.0 olx-clients.shop
 0.0.0.0 olx-clientssupport.shop
 0.0.0.0 olx-market.shop
+0.0.0.0 olx-mymoneydefense.defmyolx.workers.dev
 0.0.0.0 olx-pay.eu
 0.0.0.0 olx-pay.sbs
 0.0.0.0 olx-pay.world
@@ -1941,6 +1953,7 @@
 0.0.0.0 opi-gos.top
 0.0.0.0 oplataunicef.com
 0.0.0.0 oplatline.online
+0.0.0.0 oprhomew.com
 0.0.0.0 oprosgrand2019.space
 0.0.0.0 optimal-payments.com
 0.0.0.0 orange-moto.com.ua
@@ -2178,6 +2191,7 @@
 0.0.0.0 poker-bet.com
 0.0.0.0 pokermatch.com
 0.0.0.0 poldenkirbusiness.dunthemonster9121.workers.dev
+0.0.0.0 polihomew.com
 0.0.0.0 polimat.com.ua
 0.0.0.0 poloski.com.ua
 0.0.0.0 polsha24dopomogaua.shop
@@ -2449,6 +2463,7 @@
 0.0.0.0 redcrossukraine.top
 0.0.0.0 redirect-oschad.online
 0.0.0.0 refreshmentsubmarine.top
+0.0.0.0 reg-dostavka.workers.dev
 0.0.0.0 regadwerts.ru
 0.0.0.0 regist6901.at.ua
 0.0.0.0 regist6903.at.ua
@@ -2617,6 +2632,7 @@
 0.0.0.0 snp-broker.io
 0.0.0.0 sntumsa.pl.ua
 0.0.0.0 socprofile.com
+0.0.0.0 softmax.co.ua
 0.0.0.0 some-gos.top
 0.0.0.0 sosenki.com.ua
 0.0.0.0 sosixui.kl.com.ua
@@ -2797,6 +2813,7 @@
 0.0.0.0 trade.hermesfx.io
 0.0.0.0 tradeengine24.ru
 0.0.0.0 trading.ubkplatform.com
+0.0.0.0 transfer-e08.workers.dev
 0.0.0.0 transfer2transfer.tech
 0.0.0.0 transferdeng.top
 0.0.0.0 transferhome.top
@@ -3017,6 +3034,7 @@
 0.0.0.0 ukr-vitrina.shop
 0.0.0.0 ukr-vote.site
 0.0.0.0 ukr.gift
+0.0.0.0 ukr.reg-dostavka.workers.dev
 0.0.0.0 ukr.services
 0.0.0.0 ukr24help.com
 0.0.0.0 ukr24pays.org
@@ -3397,6 +3415,7 @@
 0.0.0.0 wbtheaterchain.vip
 0.0.0.0 wdcfsfsfgbs.com
 0.0.0.0 web-payments.com.ua
+0.0.0.0 web-portal-dopomoha-ua.dnfj.ru.com
 0.0.0.0 web.eebankosdoxla.site
 0.0.0.0 web.fioporsudogtberp.cf
 0.0.0.0 web.life-line.in.ua
