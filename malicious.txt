@@ -1,17 +1,10 @@
 # --------------------------------------------[INFO]------------------------------------------------
 #
-# Title: Malware / Ransomware / Piracy
-# Region: UA (Ukraine)
+# Description: Malware / Ransomware / Piracy. UA (Ukraine). Updated irregularly.
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
-# Expires: 1 day
 # Total number of filters: 1213
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
-#
-# --------------------------------------------[SUPPORT]---------------------------------------------
-#
-# You can support by:
-# - reporting false positives
 #
 # --------------------------------------------[FILTERS]---------------------------------------------
 

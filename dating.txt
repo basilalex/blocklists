@@ -1,21 +1,13 @@
 # --------------------------------------------[INFO]------------------------------------------------
 #
-# Title: Dating / Dating agencies
-# Region: UA (Ukraine)
+# Description: Dating / Dating agencies. UA (Ukraine). Updated irregularly.
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
-# Expires: 1 day
 # Total number of filters: 138
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
-# --------------------------------------------[SUPPORT]---------------------------------------------
-#
-# You can support by:
-# - reporting false positives
-#
 # --------------------------------------------[FILTERS]---------------------------------------------
 
-0.0.0.0 titt4tat.com
 0.0.0.0 0642.ua
 0.0.0.0 12.com.ua
 0.0.0.0 12dz.com
@@ -125,6 +117,7 @@
 0.0.0.0 teamo.ru
 0.0.0.0 tillybom.com
 0.0.0.0 tinder.com
+0.0.0.0 titt4tat.com
 0.0.0.0 topznakomstva.com
 0.0.0.0 ua.disabledmate.com
 0.0.0.0 ua.fdating.com

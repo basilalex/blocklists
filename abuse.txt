@@ -1,21 +1,13 @@
 # --------------------------------------------[INFO]------------------------------------------------
 #
-# Title: Abuse
-# Region: UA (Ukraine)
+# Description: Abuse. UA (Ukraine). Updated irregularly.
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
-# Expires: 1 day
 # Total number of filters: 1077
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
-# --------------------------------------------[SUPPORT]---------------------------------------------
-#
-# You can support by:
-# - reporting false positives
-#
 # --------------------------------------------[FILTERS]---------------------------------------------
 
-0.0.0.0 admin.byte.in.ua
 0.0.0.0 055.zzz.com.ua
 0.0.0.0 107.103.121.77.pool.smart.vn.ua
 0.0.0.0 122222.kl.com.ua
@@ -61,6 +53,7 @@
 0.0.0.0 abbytrus.in.ua
 0.0.0.0 abdal.com.ua
 0.0.0.0 adm2018.at.ua
+0.0.0.0 admin.byte.in.ua
 0.0.0.0 advertarium.com.ua
 0.0.0.0 advokat-med.in.ua
 0.0.0.0 advokat.inmart.ua

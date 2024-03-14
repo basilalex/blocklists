@@ -1,17 +1,10 @@
 # --------------------------------------------[INFO]------------------------------------------------
 #
-# Title: Fraud
-# Region: UA (Ukraine)
+# Description: Fraud. UA (Ukraine). Updated irregularly.
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
-# Expires: 1 day
 # Total number of filters: 87
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
-#
-# --------------------------------------------[SUPPORT]---------------------------------------------
-#
-# You can support by:
-# - reporting false positives
 #
 # --------------------------------------------[FILTERS]---------------------------------------------
 
