@@ -5,7 +5,7 @@
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
 # Expires: 1 day
-# Total number of filters: 3889
+# Total number of filters: 3893
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[SUPPORT]---------------------------------------------
@@ -747,6 +747,7 @@
 0.0.0.0 dostavka-ua.space
 0.0.0.0 dostavka-ukr.fun
 0.0.0.0 dostavka-ukr.space
+0.0.0.0 dostawka.workers.dev
 0.0.0.0 dostawo4ka-ua.life
 0.0.0.0 dragongold88.com
 0.0.0.0 dragonsgold888.com
@@ -948,6 +949,7 @@
 0.0.0.0 fuibinc.co.ua
 0.0.0.0 fumeky.xyz
 0.0.0.0 funpay.ru
+0.0.0.0 fxclub.site
 0.0.0.0 fxprime365.com
 0.0.0.0 fy5h7567.at.ua
 0.0.0.0 g00g1e.c0m.ua
@@ -1734,6 +1736,7 @@
 0.0.0.0 nicepage.io
 0.0.0.0 niko-yan.com.ua
 0.0.0.0 nivetra.com.ua
+0.0.0.0 noaf.dostawka.workers.dev
 0.0.0.0 noreply-olxpay.com
 0.0.0.0 nova-pay-ua.com
 0.0.0.0 nova-pay.net
@@ -3078,6 +3081,7 @@
 0.0.0.0 ukraineebay.vip
 0.0.0.0 ukrainefacility.store
 0.0.0.0 ukrainefamily.store
+0.0.0.0 ukrainefundfinders.za.com
 0.0.0.0 ukrainegoods.store
 0.0.0.0 ukrainehelp.click
 0.0.0.0 ukrainehelp.cloud
