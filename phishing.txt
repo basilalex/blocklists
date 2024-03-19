@@ -3,7 +3,7 @@
 # Description: Phishing / Scam. UA (Ukraine). Updated irregularly.
 # Author: Oleksandr Bazylevskyi
 # Homepage: https://github.com/basilalex/blocklists
-# Total number of filters: 3893
+# Total number of filters: 3909
 # License: MIT (https://github.com/basilalex/blocklists/blob/main/LICENSE)
 #
 # --------------------------------------------[FILTERS]---------------------------------------------
@@ -176,6 +176,7 @@
 0.0.0.0 alyakosenko86.wixsite.com
 0.0.0.0 amadeya-center.vn.ua
 0.0.0.0 amazetto.com.ua
+0.0.0.0 amazonv.shop
 0.0.0.0 amex-pay.com.ua
 0.0.0.0 amo-opros.top
 0.0.0.0 an-gos.top
@@ -365,6 +366,7 @@
 0.0.0.0 bradesco-com-br-id-33623.site-resgateacesso.co.ua
 0.0.0.0 bradesco-livelopontos.co.ua
 0.0.0.0 brainintelligencetraining.com
+0.0.0.0 breepy.gumloe.workers.dev
 0.0.0.0 bright-wedding.com.ua
 0.0.0.0 brokcomp.com.ua
 0.0.0.0 brovistave.org
@@ -511,6 +513,7 @@
 0.0.0.0 da-tesi.com
 0.0.0.0 daily-news.com.ua
 0.0.0.0 damilk.com.ua
+0.0.0.0 dancekupetsky.site
 0.0.0.0 data-mails.com
 0.0.0.0 data-ukr.com
 0.0.0.0 data.ier.com.ua
@@ -1102,6 +1105,7 @@
 0.0.0.0 gtradex.net
 0.0.0.0 guarrano-guild.workers.dev
 0.0.0.0 gulf-can.com
+0.0.0.0 gumloe.workers.dev
 0.0.0.0 h-shoes.com.ua
 0.0.0.0 handmadebeads.online
 0.0.0.0 handsomelucky.info
@@ -1309,6 +1313,7 @@
 0.0.0.0 kiev-favorit.com
 0.0.0.0 kievfinance-ukr.com
 0.0.0.0 kievstar.online
+0.0.0.0 kievstar.org
 0.0.0.0 kiiev.site
 0.0.0.0 kika-style.com.ua
 0.0.0.0 king-electronik.com
@@ -1394,6 +1399,7 @@
 0.0.0.0 kyivstarshop.net
 0.0.0.0 kypogatu.motends.com
 0.0.0.0 lab2.fixit.com.ua
+0.0.0.0 lably.qurse.workers.dev
 0.0.0.0 laguna.ua
 0.0.0.0 lama.com.ua
 0.0.0.0 lampsukraine.shop
@@ -1422,6 +1428,7 @@
 0.0.0.0 likte.club
 0.0.0.0 linhai.com.ua
 0.0.0.0 link-traidcompany.com
+0.0.0.0 linkin.bio
 0.0.0.0 lintex.com.ua
 0.0.0.0 liq-payment.com.ua
 0.0.0.0 liqpay.info
@@ -1817,6 +1824,7 @@
 0.0.0.0 olx-clients.shop
 0.0.0.0 olx-clientssupport.shop
 0.0.0.0 olx-market.shop
+0.0.0.0 olx-moneytransfer.olxsecuring.workers.dev
 0.0.0.0 olx-mymoneydefense.defmyolx.workers.dev
 0.0.0.0 olx-pay.eu
 0.0.0.0 olx-pay.sbs
@@ -1872,6 +1880,7 @@
 0.0.0.0 olxpocupkakoshti.shop
 0.0.0.0 olxpoluchaika.com
 0.0.0.0 olxposhta.com
+0.0.0.0 olxsecuring.workers.dev
 0.0.0.0 olxsite.com
 0.0.0.0 olxtne.workers.dev
 0.0.0.0 olxtpay.com
@@ -2347,6 +2356,7 @@
 0.0.0.0 quickpaymentss.expert
 0.0.0.0 quiled.workers.dev
 0.0.0.0 quiz-ua.site
+0.0.0.0 qurse.workers.dev
 0.0.0.0 radixgroup.ru
 0.0.0.0 raif.24get.site
 0.0.0.0 raif.cake-payment.me
@@ -2545,6 +2555,7 @@
 0.0.0.0 scrum.ahead.in.ua
 0.0.0.0 sd-pc.site
 0.0.0.0 sdfdsf.zzz.com.ua
+0.0.0.0 seae2.ua-dos.workers.dev
 0.0.0.0 seapost.com.ua
 0.0.0.0 secure91827.at.ua
 0.0.0.0 securedeng.info
@@ -2627,6 +2638,8 @@
 0.0.0.0 snasty.shop
 0.0.0.0 snp-broker.io
 0.0.0.0 sntumsa.pl.ua
+0.0.0.0 social-pidtrumka1.com
+0.0.0.0 social-vuplata-br.com
 0.0.0.0 socprofile.com
 0.0.0.0 softmax.co.ua
 0.0.0.0 some-gos.top
@@ -2845,6 +2858,7 @@
 0.0.0.0 ua-card.shop
 0.0.0.0 ua-cash.com
 0.0.0.0 ua-compenses.top
+0.0.0.0 ua-dos.workers.dev
 0.0.0.0 ua-fan-sport.com
 0.0.0.0 ua-fan-sport.org
 0.0.0.0 ua-fan-sport.xyz
@@ -3282,6 +3296,7 @@
 0.0.0.0 vbet20.com
 0.0.0.0 vbetua.com
 0.0.0.0 vbetua1.com
+0.0.0.0 vegas-x-mirror.online
 0.0.0.0 velesbukovyna.com.ua
 0.0.0.0 verify-info3.at.ua
 0.0.0.0 very-pay.com.ua
@@ -3481,6 +3496,7 @@
 0.0.0.0 www.alphaip.lg.ua
 0.0.0.0 www.altair.ua
 0.0.0.0 www.alvisi.kiev.ua
+0.0.0.0 www.amazonv.shop
 0.0.0.0 www.andromeda.in.ua
 0.0.0.0 www.angel-seeds.com.ua
 0.0.0.0 www.apcure.at.ua
