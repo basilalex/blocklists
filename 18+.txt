@@ -21,7 +21,6 @@
 0.0.0.0 adult.io.com.ua
 0.0.0.0 alive.org.ua
 0.0.0.0 all.org.ua
-0.0.0.0 allmylinks.com
 0.0.0.0 allnight.com.ua
 0.0.0.0 amoremio.com.ua
 0.0.0.0 amy.com.ua
@@ -103,7 +102,6 @@
 0.0.0.0 goldengirls.com.ua
 0.0.0.0 happyend.com.ua
 0.0.0.0 happyescorts.com
-0.0.0.0 heylink.me
 0.0.0.0 hot-love.org
 0.0.0.0 hot-news.ho.com.ua
 0.0.0.0 hot-shop24.in.ua
@@ -163,14 +161,12 @@
 0.0.0.0 mur-amur.com.ua
 0.0.0.0 mybestgigolo.com
 0.0.0.0 mym.fans
-0.0.0.0 myslink.app
 0.0.0.0 nacked.io.com.ua
 0.0.0.0 nadiya.dp.ua
 0.0.0.0 natashaescort.com
 0.0.0.0 new.io.com.ua
 0.0.0.0 night-angels.com.ua
 0.0.0.0 non-stop.com.ua
-0.0.0.0 notaboo.in.ua
 0.0.0.0 nudevideo.pp.ua
 0.0.0.0 odessa.natashaescort.com
 0.0.0.0 ogosex.com.ua

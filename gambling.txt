@@ -10,7 +10,6 @@
 
 0.0.0.0 03244.com.ua
 0.0.0.0 0352.ua
-0.0.0.0 056.ua
 0.0.0.0 05745.com.ua
 0.0.0.0 06237.com.ua
 0.0.0.0 06239.com.ua
@@ -41,7 +40,6 @@
 0.0.0.0 betline.ua
 0.0.0.0 betwinner.com
 0.0.0.0 bgsnooker.com
-0.0.0.0 biz.nv.ua
 0.0.0.0 blackjack77ukraine-ru.com
 0.0.0.0 bookmaker-ratings.com.ua
 0.0.0.0 bqgcrynldv.berx.com.ua
@@ -111,7 +109,6 @@
 0.0.0.0 igrovoiklub.com
 0.0.0.0 igrovyeavtomati.com.ua
 0.0.0.0 imoneyslots.com
-0.0.0.0 informator.ua
 0.0.0.0 interactive-games.com.ua
 0.0.0.0 interfax.com.ua
 0.0.0.0 isport.ua
@@ -165,7 +162,6 @@
 0.0.0.0 newsroom.kh.ua
 0.0.0.0 newstavka.com.ua
 0.0.0.0 novy.tv
-0.0.0.0 nv.ua
 0.0.0.0 nw.com.ua
 0.0.0.0 oblast-te.com.ua
 0.0.0.0 obratibukmekera.com.ua
@@ -292,7 +288,6 @@
 0.0.0.0 westnews.com.ua
 0.0.0.0 wetten.com
 0.0.0.0 www.03244.com.ua
-0.0.0.0 www.056.ua
 0.0.0.0 www.05745.com.ua
 0.0.0.0 www.06239.com.ua
 0.0.0.0 www.casinotopsonline.com
