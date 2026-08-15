@@ -1,3 +1,5 @@
+
+
 # Ukraine Region-specific DNS blocklist
 
 ## Details:
@@ -49,4 +51,4 @@ Thank you to the following list maintainers of the sources that were partially u
 
 ## License:
 
-For more details, see the [LICENSE](https://github.com/basilalex/ua-hosts/blob/main/LICENSE) file.
+For more details, see the [LICENSE](https://github.com/basilalex/blocklists/blob/main/LICENSE) file.
